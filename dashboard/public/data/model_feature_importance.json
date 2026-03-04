@@ -1,0 +1,252 @@
+{
+  "logistic_regression": [
+    {
+      "Feature": "Stop",
+      "Coefficient": -0.9340186873945195,
+      "Odds_Ratio": 0.39297130407701897
+    },
+    {
+      "Feature": "Railway",
+      "Coefficient": 0.7282807170424606,
+      "Odds_Ratio": 2.0715160220935043
+    },
+    {
+      "Feature": "Give_Way",
+      "Coefficient": 0.6588267216349498,
+      "Odds_Ratio": 1.9325236155948156
+    },
+    {
+      "Feature": "Junction",
+      "Coefficient": 0.5437806508845459,
+      "Odds_Ratio": 1.7225067642343839
+    },
+    {
+      "Feature": "Crossing",
+      "Coefficient": -0.5297387406633167,
+      "Odds_Ratio": 0.5887587683120915
+    },
+    {
+      "Feature": "Traffic_Signal",
+      "Coefficient": -0.38547635481760933,
+      "Odds_Ratio": 0.6801265774554872
+    },
+    {
+      "Feature": "Station",
+      "Coefficient": -0.3586366225285276,
+      "Odds_Ratio": 0.6986281709708817
+    },
+    {
+      "Feature": "Amenity",
+      "Coefficient": -0.353908559724235,
+      "Odds_Ratio": 0.701939149930353
+    },
+    {
+      "Feature": "Road_Feature_Count",
+      "Coefficient": -0.29168090438808497,
+      "Odds_Ratio": 0.7470068645590832
+    },
+    {
+      "Feature": "Traffic_Calming",
+      "Coefficient": 0.2096721719640479,
+      "Odds_Ratio": 1.2332736919865506
+    },
+    {
+      "Feature": "No_Exit",
+      "Coefficient": 0.15891392051478992,
+      "Odds_Ratio": 1.1722370367769737
+    },
+    {
+      "Feature": "Pressure(in)",
+      "Coefficient": 0.15706023629824073,
+      "Odds_Ratio": 1.1700660922283084
+    },
+    {
+      "Feature": "IsWeekend",
+      "Coefficient": 0.15704789487588705,
+      "Odds_Ratio": 1.1700516520375888
+    },
+    {
+      "Feature": "Wind_Speed(mph)",
+      "Coefficient": 0.13291493596284107,
+      "Odds_Ratio": 1.1421528380670722
+    },
+    {
+      "Feature": "Humidity(%)",
+      "Coefficient": 0.059856936429649,
+      "Odds_Ratio": 1.061684647283766
+    },
+    {
+      "Feature": "Weather_Risk_Score",
+      "Coefficient": 0.052136196939772915,
+      "Odds_Ratio": 1.0535192188362223
+    },
+    {
+      "Feature": "Visibility(mi)",
+      "Coefficient": 0.035152132671746016,
+      "Odds_Ratio": 1.035777272377816
+    },
+    {
+      "Feature": "Temperature(F)",
+      "Coefficient": 0.029950775943149,
+      "Odds_Ratio": 1.0304038120493344
+    },
+    {
+      "Feature": "Roundabout",
+      "Coefficient": -0.022924216135962575,
+      "Odds_Ratio": 0.9773365473068512
+    },
+    {
+      "Feature": "Month",
+      "Coefficient": -0.008079935227196978,
+      "Odds_Ratio": 0.9919526197098407
+    },
+    {
+      "Feature": "DayOfWeek",
+      "Coefficient": -0.007694914829059512,
+      "Odds_Ratio": 0.9923346152357306
+    },
+    {
+      "Feature": "Hour",
+      "Coefficient": 0.006601662292148666,
+      "Odds_Ratio": 1.006623501296118
+    },
+    {
+      "Feature": "Bump",
+      "Coefficient": -0.00645190516470423,
+      "Odds_Ratio": 0.9935688636852015
+    },
+    {
+      "Feature": "Turning_Loop",
+      "Coefficient": 0.0,
+      "Odds_Ratio": 1.0
+    }
+  ],
+  "random_forest": [
+    {
+      "Feature": "Wind_Speed(mph)",
+      "Importance": 0.032567239363137525,
+      "Std": 0.000663152297169324
+    },
+    {
+      "Feature": "Pressure(in)",
+      "Importance": 0.02076899243400997,
+      "Std": 0.0004678706033025039
+    },
+    {
+      "Feature": "Humidity(%)",
+      "Importance": 0.005591036750522216,
+      "Std": 0.00023377564999526795
+    },
+    {
+      "Feature": "Hour",
+      "Importance": 0.0031633234385775254,
+      "Std": 0.00012902460669840014
+    },
+    {
+      "Feature": "Weather_Risk_Score",
+      "Importance": 0.002366245889678453,
+      "Std": 0.00010247007820126718
+    },
+    {
+      "Feature": "Temperature(F)",
+      "Importance": 0.0018780046575314958,
+      "Std": 0.00023524524163470056
+    },
+    {
+      "Feature": "IsWeekend",
+      "Importance": 0.0007930796677760532,
+      "Std": 0.00013509588787401864
+    },
+    {
+      "Feature": "DayOfWeek",
+      "Importance": 0.0004042857285638246,
+      "Std": 0.00012806194415222272
+    },
+    {
+      "Feature": "Railway",
+      "Importance": 0.0001789051802544406,
+      "Std": 3.863182131485872e-05
+    },
+    {
+      "Feature": "Roundabout",
+      "Importance": 0.0,
+      "Std": 0.0
+    },
+    {
+      "Feature": "Turning_Loop",
+      "Importance": 0.0,
+      "Std": 0.0
+    },
+    {
+      "Feature": "Traffic_Calming",
+      "Importance": -2.4986757019007655e-06,
+      "Std": 6.797132773994119e-06
+    },
+    {
+      "Feature": "Bump",
+      "Importance": -4.997351403768224e-06,
+      "Std": 5.912945921768028e-06
+    },
+    {
+      "Feature": "No_Exit",
+      "Importance": -9.99470280754755e-06,
+      "Std": 1.071812468867789e-05
+    },
+    {
+      "Feature": "Give_Way",
+      "Importance": -0.00017490729913147707,
+      "Std": 9.741631280228055e-06
+    },
+    {
+      "Feature": "Visibility(mi)",
+      "Importance": -0.00042177645847703006,
+      "Std": 0.00011350040131993912
+    },
+    {
+      "Feature": "Amenity",
+      "Importance": -0.0015077009185132217,
+      "Std": 9.413211462981366e-05
+    },
+    {
+      "Feature": "Month",
+      "Importance": -0.0019919442695371823,
+      "Std": 0.0005504132836607443
+    },
+    {
+      "Feature": "Stop",
+      "Importance": -0.0029819195826212286,
+      "Std": 0.0002462741215873355
+    },
+    {
+      "Feature": "Station",
+      "Importance": -0.00391442535456209,
+      "Std": 0.00024401253785179099
+    },
+    {
+      "Feature": "Junction",
+      "Importance": -0.00729263490350116,
+      "Std": 0.0001911844532064073
+    },
+    {
+      "Feature": "Traffic_Signal",
+      "Importance": -0.016933025496486887,
+      "Std": 0.0004727251421533506
+    },
+    {
+      "Feature": "Crossing",
+      "Importance": -0.017114429352443228,
+      "Std": 0.0005992157758448881
+    },
+    {
+      "Feature": "Road_Feature_Count",
+      "Importance": -0.045957142714361396,
+      "Std": 0.0006190669622979095
+    }
+  ],
+  "comparison": {
+    "lr_auc": 0.6339343293847715,
+    "rf_auc": 0.6991259465141622,
+    "top_features_both": []
+  },
+  "status": "complete"
+}

@@ -1,0 +1,260 @@
+{
+  "summary": {
+    "urban": {
+      "count": 532412,
+      "avg_severity": 2.21,
+      "pct_severe": 0.2037
+    },
+    "rural": {
+      "count": 468116,
+      "avg_severity": 2.23,
+      "pct_severe": 0.2038
+    }
+  },
+  "hourly": [
+    {
+      "hour": 0,
+      "urban_pct": 0.0121,
+      "rural_pct": 0.0154
+    },
+    {
+      "hour": 1,
+      "urban_pct": 0.0108,
+      "rural_pct": 0.0128
+    },
+    {
+      "hour": 2,
+      "urban_pct": 0.0107,
+      "rural_pct": 0.0121
+    },
+    {
+      "hour": 3,
+      "urban_pct": 0.0093,
+      "rural_pct": 0.0113
+    },
+    {
+      "hour": 4,
+      "urban_pct": 0.0196,
+      "rural_pct": 0.0219
+    },
+    {
+      "hour": 5,
+      "urban_pct": 0.0276,
+      "rural_pct": 0.0315
+    },
+    {
+      "hour": 6,
+      "urban_pct": 0.052,
+      "rural_pct": 0.0553
+    },
+    {
+      "hour": 7,
+      "urban_pct": 0.0775,
+      "rural_pct": 0.0787
+    },
+    {
+      "hour": 8,
+      "urban_pct": 0.08,
+      "rural_pct": 0.0742
+    },
+    {
+      "hour": 9,
+      "urban_pct": 0.0486,
+      "rural_pct": 0.0474
+    },
+    {
+      "hour": 10,
+      "urban_pct": 0.0448,
+      "rural_pct": 0.0452
+    },
+    {
+      "hour": 11,
+      "urban_pct": 0.0468,
+      "rural_pct": 0.0472
+    },
+    {
+      "hour": 12,
+      "urban_pct": 0.0458,
+      "rural_pct": 0.0452
+    },
+    {
+      "hour": 13,
+      "urban_pct": 0.0503,
+      "rural_pct": 0.0506
+    },
+    {
+      "hour": 14,
+      "urban_pct": 0.0574,
+      "rural_pct": 0.0564
+    },
+    {
+      "hour": 15,
+      "urban_pct": 0.0693,
+      "rural_pct": 0.0648
+    },
+    {
+      "hour": 16,
+      "urban_pct": 0.0776,
+      "rural_pct": 0.0721
+    },
+    {
+      "hour": 17,
+      "urban_pct": 0.0775,
+      "rural_pct": 0.0706
+    },
+    {
+      "hour": 18,
+      "urban_pct": 0.0579,
+      "rural_pct": 0.0544
+    },
+    {
+      "hour": 19,
+      "urban_pct": 0.0382,
+      "rural_pct": 0.0386
+    },
+    {
+      "hour": 20,
+      "urban_pct": 0.0279,
+      "rural_pct": 0.0297
+    },
+    {
+      "hour": 21,
+      "urban_pct": 0.0232,
+      "rural_pct": 0.0255
+    },
+    {
+      "hour": 22,
+      "urban_pct": 0.0205,
+      "rural_pct": 0.0218
+    },
+    {
+      "hour": 23,
+      "urban_pct": 0.0145,
+      "rural_pct": 0.0171
+    }
+  ],
+  "severity_dist": {
+    "urban": [
+      {
+        "severity": 1,
+        "pct": 0.0103
+      },
+      {
+        "severity": 2,
+        "pct": 0.786
+      },
+      {
+        "severity": 3,
+        "pct": 0.1909
+      },
+      {
+        "severity": 4,
+        "pct": 0.0128
+      }
+    ],
+    "rural": [
+      {
+        "severity": 1,
+        "pct": 0.0077
+      },
+      {
+        "severity": 2,
+        "pct": 0.7885
+      },
+      {
+        "severity": 3,
+        "pct": 0.1655
+      },
+      {
+        "severity": 4,
+        "pct": 0.0383
+      }
+    ]
+  },
+  "top_weather": {
+    "urban": [
+      {
+        "condition": "Fair",
+        "count": 162949
+      },
+      {
+        "condition": "Mostly Cloudy",
+        "count": 82004
+      },
+      {
+        "condition": "Clear",
+        "count": 60360
+      },
+      {
+        "condition": "Partly Cloudy",
+        "count": 55456
+      },
+      {
+        "condition": "Cloudy",
+        "count": 50521
+      },
+      {
+        "condition": "Overcast",
+        "count": 29517
+      },
+      {
+        "condition": "Light Rain",
+        "count": 24672
+      },
+      {
+        "condition": "Scattered Clouds",
+        "count": 17482
+      },
+      {
+        "condition": "Unknown",
+        "count": 7598
+      },
+      {
+        "condition": "Rain",
+        "count": 5581
+      }
+    ],
+    "rural": [
+      {
+        "condition": "Fair",
+        "count": 158796
+      },
+      {
+        "condition": "Cloudy",
+        "count": 52671
+      },
+      {
+        "condition": "Clear",
+        "count": 51585
+      },
+      {
+        "condition": "Mostly Cloudy",
+        "count": 50182
+      },
+      {
+        "condition": "Partly Cloudy",
+        "count": 35875
+      },
+      {
+        "condition": "Overcast",
+        "count": 23297
+      },
+      {
+        "condition": "Light Rain",
+        "count": 21185
+      },
+      {
+        "condition": "Unknown",
+        "count": 14552
+      },
+      {
+        "condition": "Light Snow",
+        "count": 11038
+      },
+      {
+        "condition": "Scattered Clouds",
+        "count": 10876
+      }
+    ]
+  }
+}

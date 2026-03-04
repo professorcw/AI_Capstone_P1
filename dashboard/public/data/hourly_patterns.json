@@ -1,0 +1,630 @@
+{
+  "by_hour": [
+    {
+      "hour": 0,
+      "count": 98789,
+      "weekend_count": 32512,
+      "weekday_count": 66277
+    },
+    {
+      "hour": 1,
+      "count": 84585,
+      "weekend_count": 29162,
+      "weekday_count": 55423
+    },
+    {
+      "hour": 2,
+      "count": 81784,
+      "weekend_count": 30303,
+      "weekday_count": 51481
+    },
+    {
+      "hour": 3,
+      "count": 73880,
+      "weekend_count": 24883,
+      "weekday_count": 48997
+    },
+    {
+      "hour": 4,
+      "count": 149067,
+      "weekend_count": 24403,
+      "weekday_count": 124664
+    },
+    {
+      "hour": 5,
+      "count": 213412,
+      "weekend_count": 25092,
+      "weekday_count": 188320
+    },
+    {
+      "hour": 6,
+      "count": 386223,
+      "weekend_count": 31058,
+      "weekday_count": 355165
+    },
+    {
+      "hour": 7,
+      "count": 563091,
+      "weekend_count": 36762,
+      "weekday_count": 526329
+    },
+    {
+      "hour": 8,
+      "count": 554546,
+      "weekend_count": 38467,
+      "weekday_count": 516079
+    },
+    {
+      "hour": 9,
+      "count": 345448,
+      "weekend_count": 46147,
+      "weekday_count": 299301
+    },
+    {
+      "hour": 10,
+      "count": 324846,
+      "weekend_count": 55489,
+      "weekday_count": 269357
+    },
+    {
+      "hour": 11,
+      "count": 334332,
+      "weekend_count": 64711,
+      "weekday_count": 269621
+    },
+    {
+      "hour": 12,
+      "count": 326454,
+      "weekend_count": 68738,
+      "weekday_count": 257716
+    },
+    {
+      "hour": 13,
+      "count": 361708,
+      "weekend_count": 72518,
+      "weekday_count": 289190
+    },
+    {
+      "hour": 14,
+      "count": 410412,
+      "weekend_count": 73438,
+      "weekday_count": 336974
+    },
+    {
+      "hour": 15,
+      "count": 483208,
+      "weekend_count": 69041,
+      "weekday_count": 414167
+    },
+    {
+      "hour": 16,
+      "count": 538083,
+      "weekend_count": 66355,
+      "weekday_count": 471728
+    },
+    {
+      "hour": 17,
+      "count": 534531,
+      "weekend_count": 61611,
+      "weekday_count": 472920
+    },
+    {
+      "hour": 18,
+      "count": 402478,
+      "weekend_count": 58628,
+      "weekday_count": 343850
+    },
+    {
+      "hour": 19,
+      "count": 274717,
+      "weekend_count": 51486,
+      "weekday_count": 223231
+    },
+    {
+      "hour": 20,
+      "count": 207817,
+      "weekend_count": 46225,
+      "weekday_count": 161592
+    },
+    {
+      "hour": 21,
+      "count": 174054,
+      "weekend_count": 44449,
+      "weekday_count": 129605
+    },
+    {
+      "hour": 22,
+      "count": 151465,
+      "weekend_count": 38042,
+      "weekday_count": 113423
+    },
+    {
+      "hour": 23,
+      "count": 111861,
+      "weekend_count": 31228,
+      "weekday_count": 80633
+    }
+  ],
+  "by_hour_severity": [
+    {
+      "hour": 0,
+      "severity": 1,
+      "count": 341
+    },
+    {
+      "hour": 0,
+      "severity": 2,
+      "count": 81711
+    },
+    {
+      "hour": 0,
+      "severity": 3,
+      "count": 10566
+    },
+    {
+      "hour": 0,
+      "severity": 4,
+      "count": 6171
+    },
+    {
+      "hour": 1,
+      "severity": 1,
+      "count": 236
+    },
+    {
+      "hour": 1,
+      "severity": 2,
+      "count": 71448
+    },
+    {
+      "hour": 1,
+      "severity": 3,
+      "count": 8819
+    },
+    {
+      "hour": 1,
+      "severity": 4,
+      "count": 4082
+    },
+    {
+      "hour": 2,
+      "severity": 1,
+      "count": 452
+    },
+    {
+      "hour": 2,
+      "severity": 2,
+      "count": 67436
+    },
+    {
+      "hour": 2,
+      "severity": 3,
+      "count": 9672
+    },
+    {
+      "hour": 2,
+      "severity": 4,
+      "count": 4224
+    },
+    {
+      "hour": 3,
+      "severity": 1,
+      "count": 413
+    },
+    {
+      "hour": 3,
+      "severity": 2,
+      "count": 59459
+    },
+    {
+      "hour": 3,
+      "severity": 3,
+      "count": 9788
+    },
+    {
+      "hour": 3,
+      "severity": 4,
+      "count": 4220
+    },
+    {
+      "hour": 4,
+      "severity": 1,
+      "count": 2588
+    },
+    {
+      "hour": 4,
+      "severity": 2,
+      "count": 113158
+    },
+    {
+      "hour": 4,
+      "severity": 3,
+      "count": 28181
+    },
+    {
+      "hour": 4,
+      "severity": 4,
+      "count": 5140
+    },
+    {
+      "hour": 5,
+      "severity": 1,
+      "count": 2989
+    },
+    {
+      "hour": 5,
+      "severity": 2,
+      "count": 165762
+    },
+    {
+      "hour": 5,
+      "severity": 3,
+      "count": 38172
+    },
+    {
+      "hour": 5,
+      "severity": 4,
+      "count": 6489
+    },
+    {
+      "hour": 6,
+      "severity": 1,
+      "count": 5386
+    },
+    {
+      "hour": 6,
+      "severity": 2,
+      "count": 300880
+    },
+    {
+      "hour": 6,
+      "severity": 3,
+      "count": 72318
+    },
+    {
+      "hour": 6,
+      "severity": 4,
+      "count": 7639
+    },
+    {
+      "hour": 7,
+      "severity": 1,
+      "count": 8758
+    },
+    {
+      "hour": 7,
+      "severity": 2,
+      "count": 445769
+    },
+    {
+      "hour": 7,
+      "severity": 3,
+      "count": 99842
+    },
+    {
+      "hour": 7,
+      "severity": 4,
+      "count": 8722
+    },
+    {
+      "hour": 8,
+      "severity": 1,
+      "count": 8959
+    },
+    {
+      "hour": 8,
+      "severity": 2,
+      "count": 437839
+    },
+    {
+      "hour": 8,
+      "severity": 3,
+      "count": 99078
+    },
+    {
+      "hour": 8,
+      "severity": 4,
+      "count": 8670
+    },
+    {
+      "hour": 9,
+      "severity": 1,
+      "count": 2662
+    },
+    {
+      "hour": 9,
+      "severity": 2,
+      "count": 268794
+    },
+    {
+      "hour": 9,
+      "severity": 3,
+      "count": 65945
+    },
+    {
+      "hour": 9,
+      "severity": 4,
+      "count": 8047
+    },
+    {
+      "hour": 10,
+      "severity": 1,
+      "count": 2370
+    },
+    {
+      "hour": 10,
+      "severity": 2,
+      "count": 254804
+    },
+    {
+      "hour": 10,
+      "severity": 3,
+      "count": 60026
+    },
+    {
+      "hour": 10,
+      "severity": 4,
+      "count": 7646
+    },
+    {
+      "hour": 11,
+      "severity": 1,
+      "count": 2202
+    },
+    {
+      "hour": 11,
+      "severity": 2,
+      "count": 263942
+    },
+    {
+      "hour": 11,
+      "severity": 3,
+      "count": 60562
+    },
+    {
+      "hour": 11,
+      "severity": 4,
+      "count": 7626
+    },
+    {
+      "hour": 12,
+      "severity": 1,
+      "count": 1650
+    },
+    {
+      "hour": 12,
+      "severity": 2,
+      "count": 257444
+    },
+    {
+      "hour": 12,
+      "severity": 3,
+      "count": 59025
+    },
+    {
+      "hour": 12,
+      "severity": 4,
+      "count": 8335
+    },
+    {
+      "hour": 13,
+      "severity": 1,
+      "count": 2125
+    },
+    {
+      "hour": 13,
+      "severity": 2,
+      "count": 286885
+    },
+    {
+      "hour": 13,
+      "severity": 3,
+      "count": 63879
+    },
+    {
+      "hour": 13,
+      "severity": 4,
+      "count": 8819
+    },
+    {
+      "hour": 14,
+      "severity": 1,
+      "count": 2342
+    },
+    {
+      "hour": 14,
+      "severity": 2,
+      "count": 328425
+    },
+    {
+      "hour": 14,
+      "severity": 3,
+      "count": 70478
+    },
+    {
+      "hour": 14,
+      "severity": 4,
+      "count": 9167
+    },
+    {
+      "hour": 15,
+      "severity": 1,
+      "count": 3056
+    },
+    {
+      "hour": 15,
+      "severity": 2,
+      "count": 384754
+    },
+    {
+      "hour": 15,
+      "severity": 3,
+      "count": 85533
+    },
+    {
+      "hour": 15,
+      "severity": 4,
+      "count": 9865
+    },
+    {
+      "hour": 16,
+      "severity": 1,
+      "count": 4797
+    },
+    {
+      "hour": 16,
+      "severity": 2,
+      "count": 422794
+    },
+    {
+      "hour": 16,
+      "severity": 3,
+      "count": 100393
+    },
+    {
+      "hour": 16,
+      "severity": 4,
+      "count": 10099
+    },
+    {
+      "hour": 17,
+      "severity": 1,
+      "count": 4943
+    },
+    {
+      "hour": 17,
+      "severity": 2,
+      "count": 417036
+    },
+    {
+      "hour": 17,
+      "severity": 3,
+      "count": 102674
+    },
+    {
+      "hour": 17,
+      "severity": 4,
+      "count": 9878
+    },
+    {
+      "hour": 18,
+      "severity": 1,
+      "count": 3663
+    },
+    {
+      "hour": 18,
+      "severity": 2,
+      "count": 309015
+    },
+    {
+      "hour": 18,
+      "severity": 3,
+      "count": 80556
+    },
+    {
+      "hour": 18,
+      "severity": 4,
+      "count": 9244
+    },
+    {
+      "hour": 19,
+      "severity": 1,
+      "count": 2164
+    },
+    {
+      "hour": 19,
+      "severity": 2,
+      "count": 210810
+    },
+    {
+      "hour": 19,
+      "severity": 3,
+      "count": 54161
+    },
+    {
+      "hour": 19,
+      "severity": 4,
+      "count": 7582
+    },
+    {
+      "hour": 20,
+      "severity": 1,
+      "count": 826
+    },
+    {
+      "hour": 20,
+      "severity": 2,
+      "count": 160020
+    },
+    {
+      "hour": 20,
+      "severity": 3,
+      "count": 40038
+    },
+    {
+      "hour": 20,
+      "severity": 4,
+      "count": 6933
+    },
+    {
+      "hour": 21,
+      "severity": 1,
+      "count": 664
+    },
+    {
+      "hour": 21,
+      "severity": 2,
+      "count": 135497
+    },
+    {
+      "hour": 21,
+      "severity": 3,
+      "count": 31354
+    },
+    {
+      "hour": 21,
+      "severity": 4,
+      "count": 6539
+    },
+    {
+      "hour": 22,
+      "severity": 1,
+      "count": 457
+    },
+    {
+      "hour": 22,
+      "severity": 2,
+      "count": 118629
+    },
+    {
+      "hour": 22,
+      "severity": 3,
+      "count": 26317
+    },
+    {
+      "hour": 22,
+      "severity": 4,
+      "count": 6062
+    },
+    {
+      "hour": 23,
+      "severity": 1,
+      "count": 347
+    },
+    {
+      "hour": 23,
+      "severity": 2,
+      "count": 93067
+    },
+    {
+      "hour": 23,
+      "severity": 3,
+      "count": 12778
+    },
+    {
+      "hour": 23,
+      "severity": 4,
+      "count": 5669
+    }
+  ]
+}

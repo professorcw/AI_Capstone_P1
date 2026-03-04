@@ -1,0 +1,443 @@
+[
+  {
+    "state": "IL",
+    "total": 164704,
+    "avg_severity": 2.39,
+    "top_weather": "Fair",
+    "peak_hour": 11,
+    "pct_severe": 0.3723,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "NJ",
+    "total": 122333,
+    "avg_severity": 2.25,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.2127,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "LA",
+    "total": 141954,
+    "avg_severity": 2.13,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.1345,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "CA",
+    "total": 1629140,
+    "avg_severity": 2.18,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.1742,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "OK",
+    "total": 82861,
+    "avg_severity": 2.08,
+    "top_weather": "Fair",
+    "peak_hour": 14,
+    "pct_severe": 0.0876,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "KY",
+    "total": 31610,
+    "avg_severity": 2.46,
+    "top_weather": "Fair",
+    "peak_hour": 11,
+    "pct_severe": 0.4301,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "KS",
+    "total": 19545,
+    "avg_severity": 2.34,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.3089,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "IN",
+    "total": 62570,
+    "avg_severity": 2.4,
+    "top_weather": "Fair",
+    "peak_hour": 11,
+    "pct_severe": 0.3289,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "WY",
+    "total": 3065,
+    "avg_severity": 2.36,
+    "top_weather": "Fair",
+    "peak_hour": 11,
+    "pct_severe": 0.2098,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "VA",
+    "total": 274114,
+    "avg_severity": 2.28,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.239,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "WV",
+    "total": 12768,
+    "avg_severity": 2.16,
+    "top_weather": "Fair",
+    "peak_hour": 14,
+    "pct_severe": 0.1006,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "MD",
+    "total": 126833,
+    "avg_severity": 2.34,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.2699,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "NE",
+    "total": 28491,
+    "avg_severity": 2.18,
+    "top_weather": "Clear",
+    "peak_hour": 12,
+    "pct_severe": 0.1635,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "NY",
+    "total": 314278,
+    "avg_severity": 2.27,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.2481,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "CT",
+    "total": 63114,
+    "avg_severity": 2.38,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.3183,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "MN",
+    "total": 178611,
+    "avg_severity": 2.17,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.1714,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "UT",
+    "total": 91659,
+    "avg_severity": 2.19,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.1795,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "OH",
+    "total": 115374,
+    "avg_severity": 2.36,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.3176,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "DE",
+    "total": 12814,
+    "avg_severity": 2.24,
+    "top_weather": "Fair",
+    "peak_hour": 11,
+    "pct_severe": 0.153,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "PA",
+    "total": 262921,
+    "avg_severity": 2.2,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.1627,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "WI",
+    "total": 32784,
+    "avg_severity": 2.48,
+    "top_weather": "Fair",
+    "peak_hour": 11,
+    "pct_severe": 0.3875,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "NH",
+    "total": 10110,
+    "avg_severity": 2.24,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.2263,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "ME",
+    "total": 2677,
+    "avg_severity": 2.2,
+    "top_weather": "Fair",
+    "peak_hour": 14,
+    "pct_severe": 0.1617,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "MT",
+    "total": 25914,
+    "avg_severity": 2.04,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.0208,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "WA",
+    "total": 103645,
+    "avg_severity": 2.35,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.322,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "ND",
+    "total": 2981,
+    "avg_severity": 2.02,
+    "top_weather": "Fair",
+    "peak_hour": 14,
+    "pct_severe": 0.0104,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "AZ",
+    "total": 157340,
+    "avg_severity": 2.13,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.1407,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "SC",
+    "total": 371783,
+    "avg_severity": 2.11,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.1208,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "TN",
+    "total": 158452,
+    "avg_severity": 2.2,
+    "top_weather": "Mostly Cloudy",
+    "peak_hour": 12,
+    "pct_severe": 0.1983,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "ID",
+    "total": 9646,
+    "avg_severity": 2.12,
+    "top_weather": "Fair",
+    "peak_hour": 14,
+    "pct_severe": 0.0708,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "SD",
+    "total": 227,
+    "avg_severity": 2.5,
+    "top_weather": "Fair",
+    "peak_hour": 14,
+    "pct_severe": 0.2687,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "GA",
+    "total": 158328,
+    "avg_severity": 2.52,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.4548,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "DC",
+    "total": 17291,
+    "avg_severity": 2.14,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.1077,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "MS",
+    "total": 14171,
+    "avg_severity": 2.35,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.3,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "NM",
+    "total": 9983,
+    "avg_severity": 2.38,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.3392,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "NC",
+    "total": 310600,
+    "avg_severity": 2.13,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.119,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "MO",
+    "total": 73879,
+    "avg_severity": 2.41,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.3796,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "IA",
+    "total": 24210,
+    "avg_severity": 2.43,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.3561,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "MI",
+    "total": 156242,
+    "avg_severity": 2.34,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.3023,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "OR",
+    "total": 164158,
+    "avg_severity": 2.11,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.0886,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "FL",
+    "total": 780896,
+    "avg_severity": 2.15,
+    "top_weather": "Fair",
+    "peak_hour": 13,
+    "pct_severe": 0.1476,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "TX",
+    "total": 563542,
+    "avg_severity": 2.23,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.225,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "AL",
+    "total": 97685,
+    "avg_severity": 2.24,
+    "top_weather": "Fair",
+    "peak_hour": 14,
+    "pct_severe": 0.2356,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "AR",
+    "total": 18922,
+    "avg_severity": 2.26,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.1487,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "NV",
+    "total": 20841,
+    "avg_severity": 2.23,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.2078,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "CO",
+    "total": 83073,
+    "avg_severity": 2.45,
+    "top_weather": "Fair",
+    "peak_hour": 10,
+    "pct_severe": 0.3844,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "RI",
+    "total": 16725,
+    "avg_severity": 2.46,
+    "top_weather": "Mostly Cloudy",
+    "peak_hour": 14,
+    "pct_severe": 0.4655,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "MA",
+    "total": 61012,
+    "avg_severity": 2.29,
+    "top_weather": "Fair",
+    "peak_hour": 10,
+    "pct_severe": 0.3079,
+    "yoy_trend": "decreasing"
+  },
+  {
+    "state": "VT",
+    "total": 915,
+    "avg_severity": 2.42,
+    "top_weather": "Fair",
+    "peak_hour": 12,
+    "pct_severe": 0.3311,
+    "yoy_trend": "decreasing"
+  }
+]

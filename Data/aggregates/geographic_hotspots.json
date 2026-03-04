@@ -1,0 +1,2149 @@
+{
+  "cities": [
+    {
+      "city": "Houston",
+      "state": "TX",
+      "lat": 29.7584,
+      "lng": -95.4217,
+      "count": 163145,
+      "avg_severity": 2.19,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Miami",
+      "state": "FL",
+      "lat": 25.7818,
+      "lng": -80.2955,
+      "count": 152710,
+      "avg_severity": 2.12,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Los Angeles",
+      "state": "CA",
+      "lat": 34.0311,
+      "lng": -118.2756,
+      "count": 147740,
+      "avg_severity": 2.25,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Charlotte",
+      "state": "NC",
+      "lat": 35.2134,
+      "lng": -80.8325,
+      "count": 130518,
+      "avg_severity": 2.04,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "lat": 32.8082,
+      "lng": -96.7966,
+      "count": 125501,
+      "avg_severity": 2.27,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "lat": 30.2971,
+      "lng": -97.7411,
+      "count": 93586,
+      "avg_severity": 2.09,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Orlando",
+      "state": "FL",
+      "lat": 28.4946,
+      "lng": -81.3855,
+      "count": 91854,
+      "avg_severity": 2.08,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Raleigh",
+      "state": "NC",
+      "lat": 35.8157,
+      "lng": -78.6396,
+      "count": 82150,
+      "avg_severity": 2.09,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "lat": 36.1443,
+      "lng": -86.7666,
+      "count": 69393,
+      "avg_severity": 2.15,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Baton Rouge",
+      "state": "LA",
+      "lat": 30.4384,
+      "lng": -91.113,
+      "count": 68709,
+      "avg_severity": 2.09,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "lat": 33.7873,
+      "lng": -84.3949,
+      "count": 65055,
+      "avg_severity": 2.55,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Sacramento",
+      "state": "CA",
+      "lat": 38.5729,
+      "lng": -121.4335,
+      "count": 61198,
+      "avg_severity": 2.11,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "lat": 32.7967,
+      "lng": -117.1422,
+      "count": 51956,
+      "avg_severity": 2.24,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "lat": 33.5104,
+      "lng": -112.0912,
+      "count": 51689,
+      "avg_severity": 2.16,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "MN",
+      "lat": 44.9677,
+      "lng": -93.3067,
+      "count": 49475,
+      "avg_severity": 2.25,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Oklahoma City",
+      "state": "OK",
+      "lat": 35.4785,
+      "lng": -97.5501,
+      "count": 45952,
+      "avg_severity": 2.1,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "FL",
+      "lat": 30.3025,
+      "lng": -81.6462,
+      "count": 40013,
+      "avg_severity": 2.41,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Richmond",
+      "state": "VA",
+      "lat": 37.5392,
+      "lng": -77.4585,
+      "count": 39535,
+      "avg_severity": 2.12,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "San Antonio",
+      "state": "TX",
+      "lat": 29.4718,
+      "lng": -98.509,
+      "count": 36841,
+      "avg_severity": 2.24,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Saint Paul",
+      "state": "MN",
+      "lat": 44.9737,
+      "lng": -93.1056,
+      "count": 35581,
+      "avg_severity": 2.27,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "lat": 47.6034,
+      "lng": -122.3211,
+      "count": 35354,
+      "avg_severity": 2.27,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Tucson",
+      "state": "AZ",
+      "lat": 32.2333,
+      "lng": -110.9446,
+      "count": 34546,
+      "avg_severity": 1.98,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Greenville",
+      "state": "SC",
+      "lat": 34.839,
+      "lng": -82.3665,
+      "count": 34373,
+      "avg_severity": 2.11,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Columbia",
+      "state": "SC",
+      "lat": 34.0631,
+      "lng": -81.0042,
+      "count": 33783,
+      "avg_severity": 2.21,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "lat": 37.3279,
+      "lng": -121.8866,
+      "count": 33323,
+      "avg_severity": 2.19,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Portland",
+      "state": "OR",
+      "lat": 45.5217,
+      "lng": -122.6541,
+      "count": 32917,
+      "avg_severity": 2.15,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "IN",
+      "lat": 39.7942,
+      "lng": -86.1452,
+      "count": 32397,
+      "avg_severity": 2.28,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.8531,
+      "lng": -87.6727,
+      "count": 31681,
+      "avg_severity": 2.61,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Tampa",
+      "state": "FL",
+      "lat": 27.997,
+      "lng": -82.4458,
+      "count": 29457,
+      "avg_severity": 2.26,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Denver",
+      "state": "CO",
+      "lat": 39.7584,
+      "lng": -104.9719,
+      "count": 28563,
+      "avg_severity": 2.44,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Tulsa",
+      "state": "OK",
+      "lat": 36.113,
+      "lng": -95.9199,
+      "count": 28298,
+      "avg_severity": 2.01,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "New Orleans",
+      "state": "LA",
+      "lat": 29.9761,
+      "lng": -90.0593,
+      "count": 25233,
+      "avg_severity": 2.13,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Riverside",
+      "state": "CA",
+      "lat": 33.9545,
+      "lng": -117.3722,
+      "count": 24822,
+      "avg_severity": 2.15,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Bronx",
+      "state": "NY",
+      "lat": 40.8423,
+      "lng": -73.8876,
+      "count": 24716,
+      "avg_severity": 2.4,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "lat": 26.1256,
+      "lng": -80.2077,
+      "count": 24684,
+      "avg_severity": 2.36,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Detroit",
+      "state": "MI",
+      "lat": 42.3723,
+      "lng": -83.1078,
+      "count": 23942,
+      "avg_severity": 2.45,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Grand Rapids",
+      "state": "MI",
+      "lat": 42.9522,
+      "lng": -85.6524,
+      "count": 23398,
+      "avg_severity": 2.08,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Rochester",
+      "state": "NY",
+      "lat": 43.1624,
+      "lng": -77.6216,
+      "count": 22936,
+      "avg_severity": 2.09,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Dayton",
+      "state": "OH",
+      "lat": 39.7499,
+      "lng": -84.1978,
+      "count": 22768,
+      "avg_severity": 2.11,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Oakland",
+      "state": "CA",
+      "lat": 37.7986,
+      "lng": -122.2404,
+      "count": 22748,
+      "avg_severity": 2.36,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Kansas City",
+      "state": "MO",
+      "lat": 39.0828,
+      "lng": -94.5491,
+      "count": 22361,
+      "avg_severity": 2.33,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Omaha",
+      "state": "NE",
+      "lat": 41.2456,
+      "lng": -96.038,
+      "count": 21431,
+      "avg_severity": 2.18,
+      "top_weather": "Clear"
+    },
+    {
+      "city": "San Bernardino",
+      "state": "CA",
+      "lat": 34.1735,
+      "lng": -117.3437,
+      "count": 20350,
+      "avg_severity": 2.24,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Flint",
+      "state": "MI",
+      "lat": 43.0132,
+      "lng": -83.7081,
+      "count": 20211,
+      "avg_severity": 2.16,
+      "top_weather": "Clear"
+    },
+    {
+      "city": "Long Beach",
+      "state": "CA",
+      "lat": 33.8295,
+      "lng": -118.1787,
+      "count": 20179,
+      "avg_severity": 2.35,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Anaheim",
+      "state": "CA",
+      "lat": 33.8477,
+      "lng": -117.848,
+      "count": 20128,
+      "avg_severity": 2.09,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7089,
+      "lng": -111.8986,
+      "count": 19576,
+      "avg_severity": 2.23,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Brooklyn",
+      "state": "NY",
+      "lat": 40.6618,
+      "lng": -73.974,
+      "count": 19438,
+      "avg_severity": 2.33,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "lat": 40.7911,
+      "lng": -73.956,
+      "count": 19357,
+      "avg_severity": 2.21,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Fort Worth",
+      "state": "TX",
+      "lat": 32.7534,
+      "lng": -97.3061,
+      "count": 19287,
+      "avg_severity": 2.49,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Bakersfield",
+      "state": "CA",
+      "lat": 35.3493,
+      "lng": -119.0271,
+      "count": 19223,
+      "avg_severity": 2.03,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Columbus",
+      "state": "OH",
+      "lat": 39.9923,
+      "lng": -82.9835,
+      "count": 19017,
+      "avg_severity": 2.47,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Philadelphia",
+      "state": "PA",
+      "lat": 39.9798,
+      "lng": -75.1473,
+      "count": 18656,
+      "avg_severity": 2.4,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Hialeah",
+      "state": "FL",
+      "lat": 25.9044,
+      "lng": -80.3243,
+      "count": 18051,
+      "avg_severity": 2.09,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Corona",
+      "state": "CA",
+      "lat": 33.8576,
+      "lng": -117.5611,
+      "count": 17797,
+      "avg_severity": 2.15,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Ontario",
+      "state": "CA",
+      "lat": 34.0598,
+      "lng": -117.5928,
+      "count": 17403,
+      "avg_severity": 2.25,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Washington",
+      "state": "DC",
+      "lat": 38.8945,
+      "lng": -77.0057,
+      "count": 17115,
+      "avg_severity": 2.14,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "San Francisco",
+      "state": "CA",
+      "lat": 37.765,
+      "lng": -122.407,
+      "count": 16981,
+      "avg_severity": 2.27,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Saint Louis",
+      "state": "MO",
+      "lat": 38.6273,
+      "lng": -90.3267,
+      "count": 16869,
+      "avg_severity": 2.67,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Fort Myers",
+      "state": "FL",
+      "lat": 26.564,
+      "lng": -81.8299,
+      "count": 16706,
+      "avg_severity": 2.07,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Birmingham",
+      "state": "AL",
+      "lat": 33.4902,
+      "lng": -86.7742,
+      "count": 16447,
+      "avg_severity": 2.38,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Louisville",
+      "state": "KY",
+      "lat": 38.2158,
+      "lng": -85.686,
+      "count": 16047,
+      "avg_severity": 2.6,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Fresno",
+      "state": "CA",
+      "lat": 36.7472,
+      "lng": -119.7917,
+      "count": 15927,
+      "avg_severity": 2.0,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Memphis",
+      "state": "TN",
+      "lat": 35.1082,
+      "lng": -89.941,
+      "count": 15862,
+      "avg_severity": 2.3,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Chattanooga",
+      "state": "TN",
+      "lat": 35.0351,
+      "lng": -85.2504,
+      "count": 15743,
+      "avg_severity": 2.14,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "El Paso",
+      "state": "TX",
+      "lat": 31.7683,
+      "lng": -106.3619,
+      "count": 15620,
+      "avg_severity": 2.05,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Whittier",
+      "state": "CA",
+      "lat": 33.9862,
+      "lng": -118.0515,
+      "count": 15351,
+      "avg_severity": 2.22,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Spartanburg",
+      "state": "SC",
+      "lat": 34.9654,
+      "lng": -81.9584,
+      "count": 15306,
+      "avg_severity": 2.12,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Cincinnati",
+      "state": "OH",
+      "lat": 39.1858,
+      "lng": -84.4782,
+      "count": 14238,
+      "avg_severity": 2.42,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Sarasota",
+      "state": "FL",
+      "lat": 27.3221,
+      "lng": -82.4873,
+      "count": 14184,
+      "avg_severity": 2.1,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Shreveport",
+      "state": "LA",
+      "lat": 32.4654,
+      "lng": -93.7725,
+      "count": 14173,
+      "avg_severity": 2.08,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Kissimmee",
+      "state": "FL",
+      "lat": 28.294,
+      "lng": -81.4783,
+      "count": 13732,
+      "avg_severity": 2.08,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Bradenton",
+      "state": "FL",
+      "lat": 27.4556,
+      "lng": -82.527,
+      "count": 13436,
+      "avg_severity": 2.08,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "lat": 27.8026,
+      "lng": -82.6755,
+      "count": 12958,
+      "avg_severity": 2.2,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "lat": 40.4469,
+      "lng": -79.9774,
+      "count": 12648,
+      "avg_severity": 2.37,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Milwaukee",
+      "state": "WI",
+      "lat": 43.0349,
+      "lng": -87.9731,
+      "count": 12615,
+      "avg_severity": 2.41,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Pensacola",
+      "state": "FL",
+      "lat": 30.4722,
+      "lng": -87.2639,
+      "count": 12129,
+      "avg_severity": 2.09,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Hayward",
+      "state": "CA",
+      "lat": 37.6499,
+      "lng": -122.0985,
+      "count": 12112,
+      "avg_severity": 2.27,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Augusta",
+      "state": "GA",
+      "lat": 33.4539,
+      "lng": -82.0358,
+      "count": 12080,
+      "avg_severity": 2.03,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Lancaster",
+      "state": "PA",
+      "lat": 40.0508,
+      "lng": -76.31,
+      "count": 11807,
+      "avg_severity": 2.01,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Norfolk",
+      "state": "VA",
+      "lat": 36.8874,
+      "lng": -76.2447,
+      "count": 11718,
+      "avg_severity": 2.39,
+      "top_weather": "Unknown"
+    },
+    {
+      "city": "Stockton",
+      "state": "CA",
+      "lat": 37.9668,
+      "lng": -121.2879,
+      "count": 10674,
+      "avg_severity": 2.1,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Anderson",
+      "state": "SC",
+      "lat": 34.5217,
+      "lng": -82.6739,
+      "count": 10647,
+      "avg_severity": 2.03,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Cleveland",
+      "state": "OH",
+      "lat": 41.4726,
+      "lng": -81.6711,
+      "count": 10536,
+      "avg_severity": 2.34,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "York",
+      "state": "PA",
+      "lat": 39.9717,
+      "lng": -76.7205,
+      "count": 10523,
+      "avg_severity": 2.1,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Lafayette",
+      "state": "LA",
+      "lat": 30.2103,
+      "lng": -92.0341,
+      "count": 10484,
+      "avg_severity": 2.0,
+      "top_weather": "Clear"
+    },
+    {
+      "city": "Baldwin Park",
+      "state": "CA",
+      "lat": 34.0889,
+      "lng": -117.9778,
+      "count": 10157,
+      "avg_severity": 2.41,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Montgomery",
+      "state": "AL",
+      "lat": 32.3536,
+      "lng": -86.2511,
+      "count": 10075,
+      "avg_severity": 2.2,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Irvine",
+      "state": "CA",
+      "lat": 33.6741,
+      "lng": -117.7843,
+      "count": 9867,
+      "avg_severity": 2.31,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Tracy",
+      "state": "CA",
+      "lat": 37.7354,
+      "lng": -121.4759,
+      "count": 9786,
+      "avg_severity": 2.27,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "West Palm Beach",
+      "state": "FL",
+      "lat": 26.7108,
+      "lng": -80.0995,
+      "count": 9768,
+      "avg_severity": 2.3,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Henrico",
+      "state": "VA",
+      "lat": 37.5836,
+      "lng": -77.494,
+      "count": 9570,
+      "avg_severity": 2.04,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Hollywood",
+      "state": "FL",
+      "lat": 26.0099,
+      "lng": -80.2092,
+      "count": 9570,
+      "avg_severity": 2.34,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "lat": 33.7103,
+      "lng": -78.9507,
+      "count": 9507,
+      "avg_severity": 2.0,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Fremont",
+      "state": "CA",
+      "lat": 37.5229,
+      "lng": -121.9717,
+      "count": 9252,
+      "avg_severity": 2.34,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Pomona",
+      "state": "CA",
+      "lat": 34.0502,
+      "lng": -117.7662,
+      "count": 9245,
+      "avg_severity": 2.17,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Tempe",
+      "state": "AZ",
+      "lat": 33.3967,
+      "lng": -111.9277,
+      "count": 9072,
+      "avg_severity": 2.1,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Gardena",
+      "state": "CA",
+      "lat": 33.8771,
+      "lng": -118.2889,
+      "count": 9025,
+      "avg_severity": 2.32,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Buffalo",
+      "state": "NY",
+      "lat": 42.9029,
+      "lng": -78.8114,
+      "count": 8822,
+      "avg_severity": 2.39,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Santa Ana",
+      "state": "CA",
+      "lat": 33.7432,
+      "lng": -117.8538,
+      "count": 8779,
+      "avg_severity": 2.19,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Ocala",
+      "state": "FL",
+      "lat": 29.1442,
+      "lng": -82.1665,
+      "count": 8757,
+      "avg_severity": 2.12,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Santa Rosa",
+      "state": "CA",
+      "lat": 38.4413,
+      "lng": -122.722,
+      "count": 8751,
+      "avg_severity": 2.01,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Pasadena",
+      "state": "CA",
+      "lat": 34.1525,
+      "lng": -118.1219,
+      "count": 8715,
+      "avg_severity": 2.3,
+      "top_weather": "Unknown"
+    },
+    {
+      "city": "Clearwater",
+      "state": "FL",
+      "lat": 27.9599,
+      "lng": -82.7337,
+      "count": 8709,
+      "avg_severity": 2.01,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Sherman Oaks",
+      "state": "CA",
+      "lat": 34.1548,
+      "lng": -118.4587,
+      "count": 8708,
+      "avg_severity": 2.21,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Fontana",
+      "state": "CA",
+      "lat": 34.1018,
+      "lng": -117.4775,
+      "count": 8706,
+      "avg_severity": 2.2,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Greer",
+      "state": "SC",
+      "lat": 34.9046,
+      "lng": -82.2301,
+      "count": 8576,
+      "avg_severity": 2.08,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Baltimore",
+      "state": "MD",
+      "lat": 39.2921,
+      "lng": -76.591,
+      "count": 8360,
+      "avg_severity": 2.36,
+      "top_weather": "Unknown"
+    },
+    {
+      "city": "Summerville",
+      "state": "SC",
+      "lat": 33.0307,
+      "lng": -80.1743,
+      "count": 8299,
+      "avg_severity": 2.06,
+      "top_weather": "Unknown"
+    },
+    {
+      "city": "Antioch",
+      "state": "TN",
+      "lat": 36.0475,
+      "lng": -86.6471,
+      "count": 8299,
+      "avg_severity": 2.12,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Lexington",
+      "state": "SC",
+      "lat": 33.9597,
+      "lng": -81.2256,
+      "count": 8208,
+      "avg_severity": 2.18,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Livermore",
+      "state": "CA",
+      "lat": 37.7051,
+      "lng": -121.7298,
+      "count": 8135,
+      "avg_severity": 2.31,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Huntsville",
+      "state": "AL",
+      "lat": 34.7283,
+      "lng": -86.6169,
+      "count": 8009,
+      "avg_severity": 2.15,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Fairfax",
+      "state": "VA",
+      "lat": 38.8636,
+      "lng": -77.3205,
+      "count": 7949,
+      "avg_severity": 2.33,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Modesto",
+      "state": "CA",
+      "lat": 37.6457,
+      "lng": -121.0067,
+      "count": 7927,
+      "avg_severity": 2.02,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Newark",
+      "state": "NJ",
+      "lat": 40.7242,
+      "lng": -74.1622,
+      "count": 7879,
+      "avg_severity": 2.25,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Tacoma",
+      "state": "WA",
+      "lat": 47.2053,
+      "lng": -122.4459,
+      "count": 7857,
+      "avg_severity": 2.46,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Providence",
+      "state": "RI",
+      "lat": 41.8231,
+      "lng": -71.4149,
+      "count": 7642,
+      "avg_severity": 2.52,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Alexandria",
+      "state": "VA",
+      "lat": 38.8042,
+      "lng": -77.1114,
+      "count": 7537,
+      "avg_severity": 2.39,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Downey",
+      "state": "CA",
+      "lat": 33.9377,
+      "lng": -118.1109,
+      "count": 7502,
+      "avg_severity": 2.43,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Orange",
+      "state": "CA",
+      "lat": 33.7894,
+      "lng": -117.8595,
+      "count": 7438,
+      "avg_severity": 2.11,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Diamond Bar",
+      "state": "CA",
+      "lat": 34.0051,
+      "lng": -117.8258,
+      "count": 7412,
+      "avg_severity": 2.03,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Colorado Springs",
+      "state": "CO",
+      "lat": 38.8593,
+      "lng": -104.7821,
+      "count": 7376,
+      "avg_severity": 2.22,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Springfield",
+      "state": "MO",
+      "lat": 37.1945,
+      "lng": -93.2904,
+      "count": 7368,
+      "avg_severity": 2.04,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Florence",
+      "state": "SC",
+      "lat": 34.1969,
+      "lng": -79.765,
+      "count": 7320,
+      "avg_severity": 2.1,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Frederick",
+      "state": "MD",
+      "lat": 39.3974,
+      "lng": -77.4145,
+      "count": 7303,
+      "avg_severity": 2.29,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Garner",
+      "state": "NC",
+      "lat": 35.6873,
+      "lng": -78.5908,
+      "count": 7182,
+      "avg_severity": 2.16,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Silver Spring",
+      "state": "MD",
+      "lat": 39.0327,
+      "lng": -77.0163,
+      "count": 7134,
+      "avg_severity": 2.25,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Homestead",
+      "state": "FL",
+      "lat": 25.4955,
+      "lng": -80.436,
+      "count": 7116,
+      "avg_severity": 2.03,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Inglewood",
+      "state": "CA",
+      "lat": 33.9429,
+      "lng": -118.3603,
+      "count": 7115,
+      "avg_severity": 2.32,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Virginia Beach",
+      "state": "VA",
+      "lat": 36.8317,
+      "lng": -76.1243,
+      "count": 7103,
+      "avg_severity": 2.28,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Colton",
+      "state": "CA",
+      "lat": 34.0498,
+      "lng": -117.3156,
+      "count": 7091,
+      "avg_severity": 2.3,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Albuquerque",
+      "state": "NM",
+      "lat": 35.1084,
+      "lng": -106.6218,
+      "count": 7017,
+      "avg_severity": 2.32,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Rowland Heights",
+      "state": "CA",
+      "lat": 33.9891,
+      "lng": -117.9001,
+      "count": 6960,
+      "avg_severity": 2.02,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Ogden",
+      "state": "UT",
+      "lat": 41.2133,
+      "lng": -111.9846,
+      "count": 6903,
+      "avg_severity": 2.15,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Chesapeake",
+      "state": "VA",
+      "lat": 36.7696,
+      "lng": -76.3173,
+      "count": 6901,
+      "avg_severity": 2.34,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Reno",
+      "state": "NV",
+      "lat": 39.5123,
+      "lng": -119.7901,
+      "count": 6892,
+      "avg_severity": 2.29,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Salinas",
+      "state": "CA",
+      "lat": 36.6994,
+      "lng": -121.6509,
+      "count": 6878,
+      "avg_severity": 2.01,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Tallahassee",
+      "state": "FL",
+      "lat": 30.4597,
+      "lng": -84.2752,
+      "count": 6858,
+      "avg_severity": 2.04,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Decatur",
+      "state": "GA",
+      "lat": 33.7271,
+      "lng": -84.2423,
+      "count": 6784,
+      "avg_severity": 2.64,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "La Puente",
+      "state": "CA",
+      "lat": 34.0418,
+      "lng": -117.9828,
+      "count": 6755,
+      "avg_severity": 2.14,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Mobile",
+      "state": "AL",
+      "lat": 30.6705,
+      "lng": -88.1145,
+      "count": 6722,
+      "avg_severity": 2.36,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Cerritos",
+      "state": "CA",
+      "lat": 33.8723,
+      "lng": -118.0845,
+      "count": 6705,
+      "avg_severity": 2.19,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Fairfield",
+      "state": "CA",
+      "lat": 38.2448,
+      "lng": -122.0902,
+      "count": 6696,
+      "avg_severity": 2.37,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Albany",
+      "state": "NY",
+      "lat": 42.6826,
+      "lng": -73.7898,
+      "count": 6643,
+      "avg_severity": 2.49,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Los Gatos",
+      "state": "CA",
+      "lat": 37.1813,
+      "lng": -121.9847,
+      "count": 6643,
+      "avg_severity": 2.03,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Fredericksburg",
+      "state": "VA",
+      "lat": 38.2963,
+      "lng": -77.4955,
+      "count": 6613,
+      "avg_severity": 2.27,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "San Leandro",
+      "state": "CA",
+      "lat": 37.704,
+      "lng": -122.1419,
+      "count": 6602,
+      "avg_severity": 2.3,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "lat": 33.1827,
+      "lng": -87.5365,
+      "count": 6584,
+      "avg_severity": 2.1,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Scottsdale",
+      "state": "AZ",
+      "lat": 33.5634,
+      "lng": -111.8923,
+      "count": 6514,
+      "avg_severity": 2.08,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Sylmar",
+      "state": "CA",
+      "lat": 34.3061,
+      "lng": -118.4535,
+      "count": 6510,
+      "avg_severity": 2.38,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Compton",
+      "state": "CA",
+      "lat": 33.8865,
+      "lng": -118.2161,
+      "count": 6493,
+      "avg_severity": 2.08,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Redlands",
+      "state": "CA",
+      "lat": 34.05,
+      "lng": -117.1718,
+      "count": 6412,
+      "avg_severity": 2.26,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Arlington",
+      "state": "VA",
+      "lat": 38.873,
+      "lng": -77.0802,
+      "count": 6388,
+      "avg_severity": 2.35,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "San Mateo",
+      "state": "CA",
+      "lat": 37.5581,
+      "lng": -122.2964,
+      "count": 6384,
+      "avg_severity": 2.04,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Mesquite",
+      "state": "TX",
+      "lat": 32.7999,
+      "lng": -96.6268,
+      "count": 6362,
+      "avg_severity": 2.47,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Pompano Beach",
+      "state": "FL",
+      "lat": 26.2574,
+      "lng": -80.1524,
+      "count": 6333,
+      "avg_severity": 2.28,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Norristown",
+      "state": "PA",
+      "lat": 40.1311,
+      "lng": -75.3641,
+      "count": 6320,
+      "avg_severity": 2.01,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Elgin",
+      "state": "IL",
+      "lat": 42.0415,
+      "lng": -88.2973,
+      "count": 6320,
+      "avg_severity": 2.12,
+      "top_weather": "Clear"
+    },
+    {
+      "city": "Norwalk",
+      "state": "CA",
+      "lat": 33.9131,
+      "lng": -118.0946,
+      "count": 6300,
+      "avg_severity": 2.4,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Woodbridge",
+      "state": "VA",
+      "lat": 38.6494,
+      "lng": -77.2865,
+      "count": 6274,
+      "avg_severity": 2.26,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Escondido",
+      "state": "CA",
+      "lat": 33.1322,
+      "lng": -117.1018,
+      "count": 6104,
+      "avg_severity": 2.24,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Hacienda Heights",
+      "state": "CA",
+      "lat": 34.0051,
+      "lng": -117.9661,
+      "count": 6031,
+      "avg_severity": 2.03,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Charleston",
+      "state": "SC",
+      "lat": 32.8855,
+      "lng": -80.0042,
+      "count": 6012,
+      "avg_severity": 2.38,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "North Miami",
+      "state": "FL",
+      "lat": 25.8928,
+      "lng": -80.1836,
+      "count": 5981,
+      "avg_severity": 2.07,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "West Covina",
+      "state": "CA",
+      "lat": 34.0689,
+      "lng": -117.9061,
+      "count": 5954,
+      "avg_severity": 2.39,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Simpsonville",
+      "state": "SC",
+      "lat": 34.754,
+      "lng": -82.2561,
+      "count": 5860,
+      "avg_severity": 2.04,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Conway",
+      "state": "SC",
+      "lat": 33.8287,
+      "lng": -79.0336,
+      "count": 5852,
+      "avg_severity": 2.01,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Fort Mill",
+      "state": "SC",
+      "lat": 35.0408,
+      "lng": -80.9332,
+      "count": 5835,
+      "avg_severity": 2.17,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Kansas City",
+      "state": "KS",
+      "lat": 39.0954,
+      "lng": -94.6951,
+      "count": 5816,
+      "avg_severity": 2.38,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Piedmont",
+      "state": "SC",
+      "lat": 34.732,
+      "lng": -82.4578,
+      "count": 5719,
+      "avg_severity": 2.14,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Moreno Valley",
+      "state": "CA",
+      "lat": 33.9349,
+      "lng": -117.2124,
+      "count": 5703,
+      "avg_severity": 2.07,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Glendale",
+      "state": "AZ",
+      "lat": 33.5865,
+      "lng": -112.1987,
+      "count": 5699,
+      "avg_severity": 2.01,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Arlington",
+      "state": "TX",
+      "lat": 32.7094,
+      "lng": -97.116,
+      "count": 5694,
+      "avg_severity": 2.39,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Hartford",
+      "state": "CT",
+      "lat": 41.7628,
+      "lng": -72.6746,
+      "count": 5690,
+      "avg_severity": 2.41,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Mesa",
+      "state": "AZ",
+      "lat": 33.4022,
+      "lng": -111.778,
+      "count": 5689,
+      "avg_severity": 2.08,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "North Hollywood",
+      "state": "CA",
+      "lat": 34.1686,
+      "lng": -118.3842,
+      "count": 5682,
+      "avg_severity": 2.05,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Knoxville",
+      "state": "TN",
+      "lat": 35.9587,
+      "lng": -83.9899,
+      "count": 5682,
+      "avg_severity": 2.45,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Chandler",
+      "state": "AZ",
+      "lat": 33.2877,
+      "lng": -111.8796,
+      "count": 5602,
+      "avg_severity": 2.09,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Redwood City",
+      "state": "CA",
+      "lat": 37.4674,
+      "lng": -122.2456,
+      "count": 5597,
+      "avg_severity": 2.13,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Irving",
+      "state": "TX",
+      "lat": 32.8477,
+      "lng": -96.9644,
+      "count": 5546,
+      "avg_severity": 2.16,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Boca Raton",
+      "state": "FL",
+      "lat": 26.3737,
+      "lng": -80.1201,
+      "count": 5507,
+      "avg_severity": 2.35,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Castro Valley",
+      "state": "CA",
+      "lat": 37.6979,
+      "lng": -122.0581,
+      "count": 5396,
+      "avg_severity": 2.19,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Springfield",
+      "state": "VA",
+      "lat": 38.7792,
+      "lng": -77.1918,
+      "count": 5377,
+      "avg_severity": 2.38,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "West Columbia",
+      "state": "SC",
+      "lat": 33.9521,
+      "lng": -81.0992,
+      "count": 5354,
+      "avg_severity": 2.26,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Richmond",
+      "state": "CA",
+      "lat": 37.9254,
+      "lng": -122.3391,
+      "count": 5299,
+      "avg_severity": 2.36,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Staten Island",
+      "state": "NY",
+      "lat": 40.5989,
+      "lng": -74.128,
+      "count": 5289,
+      "avg_severity": 2.29,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Carson",
+      "state": "CA",
+      "lat": 33.8429,
+      "lng": -118.2696,
+      "count": 5286,
+      "avg_severity": 2.31,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Berkeley",
+      "state": "CA",
+      "lat": 37.8729,
+      "lng": -122.3038,
+      "count": 5269,
+      "avg_severity": 2.4,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Tustin",
+      "state": "CA",
+      "lat": 33.734,
+      "lng": -117.8238,
+      "count": 5224,
+      "avg_severity": 2.27,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Hyattsville",
+      "state": "MD",
+      "lat": 38.9608,
+      "lng": -76.9224,
+      "count": 5179,
+      "avg_severity": 2.19,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Newhall",
+      "state": "CA",
+      "lat": 34.3616,
+      "lng": -118.51,
+      "count": 5168,
+      "avg_severity": 2.2,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Flushing",
+      "state": "NY",
+      "lat": 40.7394,
+      "lng": -73.8344,
+      "count": 5168,
+      "avg_severity": 2.33,
+      "top_weather": "Mostly Cloudy"
+    },
+    {
+      "city": "Garden Grove",
+      "state": "CA",
+      "lat": 33.7699,
+      "lng": -117.9468,
+      "count": 5137,
+      "avg_severity": 2.03,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Perris",
+      "state": "CA",
+      "lat": 33.8134,
+      "lng": -117.2635,
+      "count": 5137,
+      "avg_severity": 2.14,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Rancho Cucamonga",
+      "state": "CA",
+      "lat": 34.1217,
+      "lng": -117.5554,
+      "count": 5113,
+      "avg_severity": 2.12,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Torrance",
+      "state": "CA",
+      "lat": 33.8492,
+      "lng": -118.3127,
+      "count": 5098,
+      "avg_severity": 2.22,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Costa Mesa",
+      "state": "CA",
+      "lat": 33.6809,
+      "lng": -117.8969,
+      "count": 5083,
+      "avg_severity": 2.21,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Vallejo",
+      "state": "CA",
+      "lat": 38.1083,
+      "lng": -122.2384,
+      "count": 5076,
+      "avg_severity": 2.3,
+      "top_weather": "Fair"
+    },
+    {
+      "city": "Concord",
+      "state": "CA",
+      "lat": 37.9914,
+      "lng": -122.0282,
+      "count": 5053,
+      "avg_severity": 2.07,
+      "top_weather": "Fair"
+    }
+  ],
+  "states": [
+    {
+      "state": "IL",
+      "count": 164704,
+      "avg_severity": 2.39,
+      "lat": 41.79,
+      "lng": -88.05
+    },
+    {
+      "state": "NJ",
+      "count": 122333,
+      "avg_severity": 2.25,
+      "lat": 40.49,
+      "lng": -74.41
+    },
+    {
+      "state": "LA",
+      "count": 141954,
+      "avg_severity": 2.13,
+      "lat": 30.55,
+      "lng": -91.32
+    },
+    {
+      "state": "CA",
+      "count": 1629140,
+      "avg_severity": 2.18,
+      "lat": 35.62,
+      "lng": -119.5
+    },
+    {
+      "state": "OK",
+      "count": 82861,
+      "avg_severity": 2.08,
+      "lat": 35.71,
+      "lng": -96.96
+    },
+    {
+      "state": "KY",
+      "count": 31610,
+      "avg_severity": 2.46,
+      "lat": 38.35,
+      "lng": -85.2
+    },
+    {
+      "state": "KS",
+      "count": 19545,
+      "avg_severity": 2.34,
+      "lat": 38.88,
+      "lng": -95.03
+    },
+    {
+      "state": "IN",
+      "count": 62570,
+      "avg_severity": 2.4,
+      "lat": 39.97,
+      "lng": -86.25
+    },
+    {
+      "state": "WY",
+      "count": 3065,
+      "avg_severity": 2.36,
+      "lat": 41.8,
+      "lng": -107.13
+    },
+    {
+      "state": "VA",
+      "count": 274114,
+      "avg_severity": 2.28,
+      "lat": 37.9,
+      "lng": -77.58
+    },
+    {
+      "state": "WV",
+      "count": 12768,
+      "avg_severity": 2.16,
+      "lat": 38.72,
+      "lng": -80.87
+    },
+    {
+      "state": "MD",
+      "count": 126833,
+      "avg_severity": 2.34,
+      "lat": 39.17,
+      "lng": -76.84
+    },
+    {
+      "state": "NE",
+      "count": 28491,
+      "avg_severity": 2.18,
+      "lat": 41.22,
+      "lng": -96.19
+    },
+    {
+      "state": "NY",
+      "count": 314278,
+      "avg_severity": 2.27,
+      "lat": 41.55,
+      "lng": -74.55
+    },
+    {
+      "state": "CT",
+      "count": 63114,
+      "avg_severity": 2.38,
+      "lat": 41.46,
+      "lng": -72.92
+    },
+    {
+      "state": "MN",
+      "count": 178611,
+      "avg_severity": 2.17,
+      "lat": 45.06,
+      "lng": -93.44
+    },
+    {
+      "state": "UT",
+      "count": 91659,
+      "avg_severity": 2.19,
+      "lat": 40.4,
+      "lng": -111.89
+    },
+    {
+      "state": "OH",
+      "count": 115374,
+      "avg_severity": 2.36,
+      "lat": 40.2,
+      "lng": -83.21
+    },
+    {
+      "state": "DE",
+      "count": 12814,
+      "avg_severity": 2.24,
+      "lat": 39.59,
+      "lng": -75.59
+    },
+    {
+      "state": "PA",
+      "count": 262921,
+      "avg_severity": 2.2,
+      "lat": 40.3,
+      "lng": -76.57
+    },
+    {
+      "state": "WI",
+      "count": 32784,
+      "avg_severity": 2.48,
+      "lat": 43.36,
+      "lng": -88.62
+    },
+    {
+      "state": "NH",
+      "count": 10110,
+      "avg_severity": 2.24,
+      "lat": 43.12,
+      "lng": -71.46
+    },
+    {
+      "state": "ME",
+      "count": 2677,
+      "avg_severity": 2.2,
+      "lat": 44.0,
+      "lng": -70.0
+    },
+    {
+      "state": "MT",
+      "count": 25914,
+      "avg_severity": 2.04,
+      "lat": 46.53,
+      "lng": -111.65
+    },
+    {
+      "state": "WA",
+      "count": 103645,
+      "avg_severity": 2.35,
+      "lat": 47.48,
+      "lng": -122.1
+    },
+    {
+      "state": "ND",
+      "count": 2981,
+      "avg_severity": 2.02,
+      "lat": 47.16,
+      "lng": -99.32
+    },
+    {
+      "state": "AZ",
+      "count": 157340,
+      "avg_severity": 2.13,
+      "lat": 33.31,
+      "lng": -111.82
+    },
+    {
+      "state": "SC",
+      "count": 371783,
+      "avg_severity": 2.11,
+      "lat": 34.2,
+      "lng": -81.22
+    },
+    {
+      "state": "TN",
+      "count": 158452,
+      "avg_severity": 2.2,
+      "lat": 35.86,
+      "lng": -86.57
+    },
+    {
+      "state": "ID",
+      "count": 9646,
+      "avg_severity": 2.12,
+      "lat": 43.89,
+      "lng": -115.75
+    },
+    {
+      "state": "SD",
+      "count": 227,
+      "avg_severity": 2.5,
+      "lat": 43.79,
+      "lng": -98.34
+    },
+    {
+      "state": "GA",
+      "count": 158328,
+      "avg_severity": 2.52,
+      "lat": 33.6,
+      "lng": -83.99
+    },
+    {
+      "state": "DC",
+      "count": 17291,
+      "avg_severity": 2.14,
+      "lat": 38.89,
+      "lng": -77.01
+    },
+    {
+      "state": "MS",
+      "count": 14171,
+      "avg_severity": 2.35,
+      "lat": 32.17,
+      "lng": -89.74
+    },
+    {
+      "state": "NM",
+      "count": 9983,
+      "avg_severity": 2.38,
+      "lat": 34.91,
+      "lng": -106.58
+    },
+    {
+      "state": "NC",
+      "count": 310600,
+      "avg_severity": 2.13,
+      "lat": 35.51,
+      "lng": -79.9
+    },
+    {
+      "state": "MO",
+      "count": 73879,
+      "avg_severity": 2.41,
+      "lat": 38.64,
+      "lng": -92.55
+    },
+    {
+      "state": "IA",
+      "count": 24210,
+      "avg_severity": 2.43,
+      "lat": 41.73,
+      "lng": -93.34
+    },
+    {
+      "state": "MI",
+      "count": 156242,
+      "avg_severity": 2.34,
+      "lat": 42.7,
+      "lng": -83.99
+    },
+    {
+      "state": "OR",
+      "count": 164158,
+      "avg_severity": 2.11,
+      "lat": 44.61,
+      "lng": -122.07
+    },
+    {
+      "state": "FL",
+      "count": 780896,
+      "avg_severity": 2.15,
+      "lat": 27.59,
+      "lng": -81.52
+    },
+    {
+      "state": "TX",
+      "count": 563542,
+      "avg_severity": 2.23,
+      "lat": 31.05,
+      "lng": -96.97
+    },
+    {
+      "state": "AL",
+      "count": 97685,
+      "avg_severity": 2.24,
+      "lat": 33.02,
+      "lng": -86.84
+    },
+    {
+      "state": "AR",
+      "count": 18922,
+      "avg_severity": 2.26,
+      "lat": 35.0,
+      "lng": -92.4
+    },
+    {
+      "state": "NV",
+      "count": 20841,
+      "avg_severity": 2.23,
+      "lat": 39.14,
+      "lng": -118.55
+    },
+    {
+      "state": "CO",
+      "count": 83073,
+      "avg_severity": 2.45,
+      "lat": 39.55,
+      "lng": -105.07
+    },
+    {
+      "state": "RI",
+      "count": 16725,
+      "avg_severity": 2.46,
+      "lat": 41.8,
+      "lng": -71.44
+    },
+    {
+      "state": "MA",
+      "count": 61012,
+      "avg_severity": 2.29,
+      "lat": 42.34,
+      "lng": -71.2
+    },
+    {
+      "state": "VT",
+      "count": 915,
+      "avg_severity": 2.42,
+      "lat": 43.78,
+      "lng": -72.77
+    }
+  ]
+}

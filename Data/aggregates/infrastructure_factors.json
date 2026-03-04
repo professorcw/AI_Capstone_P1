@@ -1,0 +1,129 @@
+{
+  "features": [
+    {
+      "name": "Amenity",
+      "accident_count": 89080,
+      "avg_severity": 2.07,
+      "pct_severe": 0.0636,
+      "pct_of_total": 0.0124
+    },
+    {
+      "name": "Bump",
+      "accident_count": 3202,
+      "avg_severity": 2.1,
+      "pct_severe": 0.1027,
+      "pct_of_total": 0.0004
+    },
+    {
+      "name": "Crossing",
+      "accident_count": 811297,
+      "avg_severity": 2.07,
+      "pct_severe": 0.0725,
+      "pct_of_total": 0.1129
+    },
+    {
+      "name": "Give_Way",
+      "accident_count": 34425,
+      "avg_severity": 2.18,
+      "pct_severe": 0.1643,
+      "pct_of_total": 0.0048
+    },
+    {
+      "name": "Junction",
+      "accident_count": 536683,
+      "avg_severity": 2.31,
+      "pct_severe": 0.2797,
+      "pct_of_total": 0.0747
+    },
+    {
+      "name": "No_Exit",
+      "accident_count": 18055,
+      "avg_severity": 2.12,
+      "pct_severe": 0.1189,
+      "pct_of_total": 0.0025
+    },
+    {
+      "name": "Railway",
+      "accident_count": 63009,
+      "avg_severity": 2.16,
+      "pct_severe": 0.1562,
+      "pct_of_total": 0.0088
+    },
+    {
+      "name": "Roundabout",
+      "accident_count": 244,
+      "avg_severity": 2.06,
+      "pct_severe": 0.041,
+      "pct_of_total": 0.0
+    },
+    {
+      "name": "Station",
+      "accident_count": 181034,
+      "avg_severity": 2.08,
+      "pct_severe": 0.081,
+      "pct_of_total": 0.0252
+    },
+    {
+      "name": "Stop",
+      "accident_count": 197473,
+      "avg_severity": 2.07,
+      "pct_severe": 0.0614,
+      "pct_of_total": 0.0275
+    },
+    {
+      "name": "Traffic_Calming",
+      "accident_count": 6923,
+      "avg_severity": 2.13,
+      "pct_severe": 0.1335,
+      "pct_of_total": 0.001
+    },
+    {
+      "name": "Traffic_Signal",
+      "accident_count": 1091836,
+      "avg_severity": 2.09,
+      "pct_severe": 0.0954,
+      "pct_of_total": 0.1519
+    },
+    {
+      "name": "Turning_Loop",
+      "accident_count": 0,
+      "avg_severity": 0,
+      "pct_severe": 0,
+      "pct_of_total": 0.0
+    }
+  ],
+  "feature_count_dist": [
+    {
+      "count": 0,
+      "accidents": 5034388
+    },
+    {
+      "count": 1,
+      "accidents": 1437755
+    },
+    {
+      "count": 2,
+      "accidents": 574409
+    },
+    {
+      "count": 3,
+      "accidents": 117398
+    },
+    {
+      "count": 4,
+      "accidents": 19916
+    },
+    {
+      "count": 5,
+      "accidents": 2722
+    },
+    {
+      "count": 6,
+      "accidents": 201
+    },
+    {
+      "count": 7,
+      "accidents": 2
+    }
+  ]
+}

@@ -1,0 +1,1143 @@
+{
+  "overall": [
+    {
+      "severity": 1,
+      "count": 64390,
+      "pct": 0.009
+    },
+    {
+      "severity": 2,
+      "count": 5655378,
+      "pct": 0.7869
+    },
+    {
+      "severity": 3,
+      "count": 1290155,
+      "pct": 0.1795
+    },
+    {
+      "severity": 4,
+      "count": 176868,
+      "pct": 0.0246
+    }
+  ],
+  "by_year": [
+    {
+      "year": 2016,
+      "severity": 1,
+      "count": 225
+    },
+    {
+      "year": 2016,
+      "severity": 2,
+      "count": 269020
+    },
+    {
+      "year": 2016,
+      "severity": 3,
+      "count": 125825
+    },
+    {
+      "year": 2016,
+      "severity": 4,
+      "count": 14207
+    },
+    {
+      "year": 2017,
+      "severity": 1,
+      "count": 282
+    },
+    {
+      "year": 2017,
+      "severity": 2,
+      "count": 459735
+    },
+    {
+      "year": 2017,
+      "severity": 3,
+      "count": 230483
+    },
+    {
+      "year": 2017,
+      "severity": 4,
+      "count": 23735
+    },
+    {
+      "year": 2018,
+      "severity": 1,
+      "count": 258
+    },
+    {
+      "year": 2018,
+      "severity": 2,
+      "count": 571733
+    },
+    {
+      "year": 2018,
+      "severity": 3,
+      "count": 291729
+    },
+    {
+      "year": 2018,
+      "severity": 4,
+      "count": 25260
+    },
+    {
+      "year": 2019,
+      "severity": 1,
+      "count": 203
+    },
+    {
+      "year": 2019,
+      "severity": 2,
+      "count": 684590
+    },
+    {
+      "year": 2019,
+      "severity": 3,
+      "count": 236836
+    },
+    {
+      "year": 2019,
+      "severity": 4,
+      "count": 27597
+    },
+    {
+      "year": 2020,
+      "severity": 1,
+      "count": 25532
+    },
+    {
+      "year": 2020,
+      "severity": 2,
+      "count": 821849
+    },
+    {
+      "year": 2020,
+      "severity": 3,
+      "count": 180257
+    },
+    {
+      "year": 2020,
+      "severity": 4,
+      "count": 26354
+    },
+    {
+      "year": 2021,
+      "severity": 1,
+      "count": 150
+    },
+    {
+      "year": 2021,
+      "severity": 2,
+      "count": 1237617
+    },
+    {
+      "year": 2021,
+      "severity": 3,
+      "count": 147414
+    },
+    {
+      "year": 2021,
+      "severity": 4,
+      "count": 23780
+    },
+    {
+      "year": 2022,
+      "severity": 1,
+      "count": 37740
+    },
+    {
+      "year": 2022,
+      "severity": 2,
+      "count": 1395059
+    },
+    {
+      "year": 2022,
+      "severity": 3,
+      "count": 77611
+    },
+    {
+      "year": 2022,
+      "severity": 4,
+      "count": 31060
+    },
+    {
+      "year": 2023,
+      "severity": 2,
+      "count": 215775
+    },
+    {
+      "year": 2023,
+      "severity": 4,
+      "count": 4875
+    }
+  ],
+  "by_state": [
+    {
+      "state": "AL",
+      "severity": 1,
+      "count": 674
+    },
+    {
+      "state": "AL",
+      "severity": 2,
+      "count": 73994
+    },
+    {
+      "state": "AL",
+      "severity": 3,
+      "count": 21482
+    },
+    {
+      "state": "AL",
+      "severity": 4,
+      "count": 1535
+    },
+    {
+      "state": "AR",
+      "severity": 1,
+      "count": 37
+    },
+    {
+      "state": "AR",
+      "severity": 2,
+      "count": 16072
+    },
+    {
+      "state": "AR",
+      "severity": 3,
+      "count": 671
+    },
+    {
+      "state": "AR",
+      "severity": 4,
+      "count": 2142
+    },
+    {
+      "state": "AZ",
+      "severity": 1,
+      "count": 6715
+    },
+    {
+      "state": "AZ",
+      "severity": 2,
+      "count": 128495
+    },
+    {
+      "state": "AZ",
+      "severity": 3,
+      "count": 17500
+    },
+    {
+      "state": "AZ",
+      "severity": 4,
+      "count": 4630
+    },
+    {
+      "state": "CA",
+      "severity": 1,
+      "count": 9541
+    },
+    {
+      "state": "CA",
+      "severity": 2,
+      "count": 1335805
+    },
+    {
+      "state": "CA",
+      "severity": 3,
+      "count": 271111
+    },
+    {
+      "state": "CA",
+      "severity": 4,
+      "count": 12683
+    },
+    {
+      "state": "CO",
+      "severity": 1,
+      "count": 851
+    },
+    {
+      "state": "CO",
+      "severity": 2,
+      "count": 50291
+    },
+    {
+      "state": "CO",
+      "severity": 3,
+      "count": 25889
+    },
+    {
+      "state": "CO",
+      "severity": 4,
+      "count": 6042
+    },
+    {
+      "state": "CT",
+      "severity": 1,
+      "count": 71
+    },
+    {
+      "state": "CT",
+      "severity": 2,
+      "count": 42953
+    },
+    {
+      "state": "CT",
+      "severity": 3,
+      "count": 16267
+    },
+    {
+      "state": "CT",
+      "severity": 4,
+      "count": 3823
+    },
+    {
+      "state": "DC",
+      "severity": 1,
+      "count": 135
+    },
+    {
+      "state": "DC",
+      "severity": 2,
+      "count": 15293
+    },
+    {
+      "state": "DC",
+      "severity": 3,
+      "count": 1131
+    },
+    {
+      "state": "DC",
+      "severity": 4,
+      "count": 732
+    },
+    {
+      "state": "DE",
+      "severity": 1,
+      "count": 233
+    },
+    {
+      "state": "DE",
+      "severity": 2,
+      "count": 10620
+    },
+    {
+      "state": "DE",
+      "severity": 3,
+      "count": 664
+    },
+    {
+      "state": "DE",
+      "severity": 4,
+      "count": 1297
+    },
+    {
+      "state": "FL",
+      "severity": 1,
+      "count": 6858
+    },
+    {
+      "state": "FL",
+      "severity": 2,
+      "count": 658806
+    },
+    {
+      "state": "FL",
+      "severity": 3,
+      "count": 103171
+    },
+    {
+      "state": "FL",
+      "severity": 4,
+      "count": 12061
+    },
+    {
+      "state": "GA",
+      "severity": 1,
+      "count": 972
+    },
+    {
+      "state": "GA",
+      "severity": 2,
+      "count": 85350
+    },
+    {
+      "state": "GA",
+      "severity": 3,
+      "count": 60932
+    },
+    {
+      "state": "GA",
+      "severity": 4,
+      "count": 11074
+    },
+    {
+      "state": "IA",
+      "severity": 1,
+      "count": 57
+    },
+    {
+      "state": "IA",
+      "severity": 2,
+      "count": 15533
+    },
+    {
+      "state": "IA",
+      "severity": 3,
+      "count": 6890
+    },
+    {
+      "state": "IA",
+      "severity": 4,
+      "count": 1730
+    },
+    {
+      "state": "ID",
+      "severity": 1,
+      "count": 1
+    },
+    {
+      "state": "ID",
+      "severity": 2,
+      "count": 8962
+    },
+    {
+      "state": "ID",
+      "severity": 3,
+      "count": 220
+    },
+    {
+      "state": "ID",
+      "severity": 4,
+      "count": 463
+    },
+    {
+      "state": "IL",
+      "severity": 1,
+      "count": 1618
+    },
+    {
+      "state": "IL",
+      "severity": 2,
+      "count": 101773
+    },
+    {
+      "state": "IL",
+      "severity": 3,
+      "count": 57272
+    },
+    {
+      "state": "IL",
+      "severity": 4,
+      "count": 4041
+    },
+    {
+      "state": "IN",
+      "severity": 1,
+      "count": 326
+    },
+    {
+      "state": "IN",
+      "severity": 2,
+      "count": 41665
+    },
+    {
+      "state": "IN",
+      "severity": 3,
+      "count": 15797
+    },
+    {
+      "state": "IN",
+      "severity": 4,
+      "count": 4782
+    },
+    {
+      "state": "KS",
+      "severity": 1,
+      "count": 34
+    },
+    {
+      "state": "KS",
+      "severity": 2,
+      "count": 13473
+    },
+    {
+      "state": "KS",
+      "severity": 3,
+      "count": 5305
+    },
+    {
+      "state": "KS",
+      "severity": 4,
+      "count": 733
+    },
+    {
+      "state": "KY",
+      "severity": 1,
+      "count": 289
+    },
+    {
+      "state": "KY",
+      "severity": 2,
+      "count": 17725
+    },
+    {
+      "state": "KY",
+      "severity": 3,
+      "count": 12437
+    },
+    {
+      "state": "KY",
+      "severity": 4,
+      "count": 1159
+    },
+    {
+      "state": "LA",
+      "severity": 1,
+      "count": 2302
+    },
+    {
+      "state": "LA",
+      "severity": 2,
+      "count": 120558
+    },
+    {
+      "state": "LA",
+      "severity": 3,
+      "count": 17329
+    },
+    {
+      "state": "LA",
+      "severity": 4,
+      "count": 1765
+    },
+    {
+      "state": "MA",
+      "severity": 1,
+      "count": 1447
+    },
+    {
+      "state": "MA",
+      "severity": 2,
+      "count": 40777
+    },
+    {
+      "state": "MA",
+      "severity": 3,
+      "count": 18281
+    },
+    {
+      "state": "MA",
+      "severity": 4,
+      "count": 507
+    },
+    {
+      "state": "MD",
+      "severity": 1,
+      "count": 468
+    },
+    {
+      "state": "MD",
+      "severity": 2,
+      "count": 92139
+    },
+    {
+      "state": "MD",
+      "severity": 3,
+      "count": 24970
+    },
+    {
+      "state": "MD",
+      "severity": 4,
+      "count": 9256
+    },
+    {
+      "state": "ME",
+      "severity": 1,
+      "count": 4
+    },
+    {
+      "state": "ME",
+      "severity": 2,
+      "count": 2240
+    },
+    {
+      "state": "ME",
+      "severity": 3,
+      "count": 315
+    },
+    {
+      "state": "ME",
+      "severity": 4,
+      "count": 118
+    },
+    {
+      "state": "MI",
+      "severity": 1,
+      "count": 1046
+    },
+    {
+      "state": "MI",
+      "severity": 2,
+      "count": 107962
+    },
+    {
+      "state": "MI",
+      "severity": 3,
+      "count": 40330
+    },
+    {
+      "state": "MI",
+      "severity": 4,
+      "count": 6904
+    },
+    {
+      "state": "MN",
+      "severity": 1,
+      "count": 487
+    },
+    {
+      "state": "MN",
+      "severity": 2,
+      "count": 147504
+    },
+    {
+      "state": "MN",
+      "severity": 3,
+      "count": 29808
+    },
+    {
+      "state": "MN",
+      "severity": 4,
+      "count": 812
+    },
+    {
+      "state": "MO",
+      "severity": 1,
+      "count": 269
+    },
+    {
+      "state": "MO",
+      "severity": 2,
+      "count": 45567
+    },
+    {
+      "state": "MO",
+      "severity": 3,
+      "count": 25312
+    },
+    {
+      "state": "MO",
+      "severity": 4,
+      "count": 2731
+    },
+    {
+      "state": "MS",
+      "severity": 1,
+      "count": 29
+    },
+    {
+      "state": "MS",
+      "severity": 2,
+      "count": 9891
+    },
+    {
+      "state": "MS",
+      "severity": 3,
+      "count": 3561
+    },
+    {
+      "state": "MS",
+      "severity": 4,
+      "count": 690
+    },
+    {
+      "state": "MT",
+      "severity": 2,
+      "count": 25376
+    },
+    {
+      "state": "MT",
+      "severity": 3,
+      "count": 139
+    },
+    {
+      "state": "MT",
+      "severity": 4,
+      "count": 399
+    },
+    {
+      "state": "NC",
+      "severity": 1,
+      "count": 5033
+    },
+    {
+      "state": "NC",
+      "severity": 2,
+      "count": 268618
+    },
+    {
+      "state": "NC",
+      "severity": 3,
+      "count": 29387
+    },
+    {
+      "state": "NC",
+      "severity": 4,
+      "count": 7562
+    },
+    {
+      "state": "ND",
+      "severity": 1,
+      "count": 1
+    },
+    {
+      "state": "ND",
+      "severity": 2,
+      "count": 2949
+    },
+    {
+      "state": "ND",
+      "severity": 3,
+      "count": 14
+    },
+    {
+      "state": "ND",
+      "severity": 4,
+      "count": 17
+    },
+    {
+      "state": "NE",
+      "severity": 1,
+      "count": 92
+    },
+    {
+      "state": "NE",
+      "severity": 2,
+      "count": 23742
+    },
+    {
+      "state": "NE",
+      "severity": 3,
+      "count": 4126
+    },
+    {
+      "state": "NE",
+      "severity": 4,
+      "count": 531
+    },
+    {
+      "state": "NH",
+      "severity": 1,
+      "count": 82
+    },
+    {
+      "state": "NH",
+      "severity": 2,
+      "count": 7740
+    },
+    {
+      "state": "NH",
+      "severity": 3,
+      "count": 2042
+    },
+    {
+      "state": "NH",
+      "severity": 4,
+      "count": 246
+    },
+    {
+      "state": "NJ",
+      "severity": 1,
+      "count": 188
+    },
+    {
+      "state": "NJ",
+      "severity": 2,
+      "count": 96127
+    },
+    {
+      "state": "NJ",
+      "severity": 3,
+      "count": 20985
+    },
+    {
+      "state": "NJ",
+      "severity": 4,
+      "count": 5033
+    },
+    {
+      "state": "NM",
+      "severity": 1,
+      "count": 153
+    },
+    {
+      "state": "NM",
+      "severity": 2,
+      "count": 6444
+    },
+    {
+      "state": "NM",
+      "severity": 3,
+      "count": 2845
+    },
+    {
+      "state": "NM",
+      "severity": 4,
+      "count": 541
+    },
+    {
+      "state": "NV",
+      "severity": 1,
+      "count": 128
+    },
+    {
+      "state": "NV",
+      "severity": 2,
+      "count": 16382
+    },
+    {
+      "state": "NV",
+      "severity": 3,
+      "count": 3673
+    },
+    {
+      "state": "NV",
+      "severity": 4,
+      "count": 658
+    },
+    {
+      "state": "NY",
+      "severity": 1,
+      "count": 1090
+    },
+    {
+      "state": "NY",
+      "severity": 2,
+      "count": 235211
+    },
+    {
+      "state": "NY",
+      "severity": 3,
+      "count": 68672
+    },
+    {
+      "state": "NY",
+      "severity": 4,
+      "count": 9305
+    },
+    {
+      "state": "OH",
+      "severity": 1,
+      "count": 1675
+    },
+    {
+      "state": "OH",
+      "severity": 2,
+      "count": 77052
+    },
+    {
+      "state": "OH",
+      "severity": 3,
+      "count": 30485
+    },
+    {
+      "state": "OH",
+      "severity": 4,
+      "count": 6162
+    },
+    {
+      "state": "OK",
+      "severity": 1,
+      "count": 1301
+    },
+    {
+      "state": "OK",
+      "severity": 2,
+      "count": 74305
+    },
+    {
+      "state": "OK",
+      "severity": 3,
+      "count": 6782
+    },
+    {
+      "state": "OK",
+      "severity": 4,
+      "count": 473
+    },
+    {
+      "state": "OR",
+      "severity": 1,
+      "count": 1302
+    },
+    {
+      "state": "OR",
+      "severity": 2,
+      "count": 148315
+    },
+    {
+      "state": "OR",
+      "severity": 3,
+      "count": 9591
+    },
+    {
+      "state": "OR",
+      "severity": 4,
+      "count": 4950
+    },
+    {
+      "state": "PA",
+      "severity": 1,
+      "count": 1661
+    },
+    {
+      "state": "PA",
+      "severity": 2,
+      "count": 218488
+    },
+    {
+      "state": "PA",
+      "severity": 3,
+      "count": 30442
+    },
+    {
+      "state": "PA",
+      "severity": 4,
+      "count": 12330
+    },
+    {
+      "state": "RI",
+      "severity": 1,
+      "count": 167
+    },
+    {
+      "state": "RI",
+      "severity": 2,
+      "count": 8772
+    },
+    {
+      "state": "RI",
+      "severity": 3,
+      "count": 7667
+    },
+    {
+      "state": "RI",
+      "severity": 4,
+      "count": 119
+    },
+    {
+      "state": "SC",
+      "severity": 1,
+      "count": 6159
+    },
+    {
+      "state": "SC",
+      "severity": 2,
+      "count": 320699
+    },
+    {
+      "state": "SC",
+      "severity": 3,
+      "count": 42248
+    },
+    {
+      "state": "SC",
+      "severity": 4,
+      "count": 2677
+    },
+    {
+      "state": "SD",
+      "severity": 2,
+      "count": 166
+    },
+    {
+      "state": "SD",
+      "severity": 3,
+      "count": 8
+    },
+    {
+      "state": "SD",
+      "severity": 4,
+      "count": 53
+    },
+    {
+      "state": "TN",
+      "severity": 1,
+      "count": 2327
+    },
+    {
+      "state": "TN",
+      "severity": 2,
+      "count": 124704
+    },
+    {
+      "state": "TN",
+      "severity": 3,
+      "count": 28422
+    },
+    {
+      "state": "TN",
+      "severity": 4,
+      "count": 2999
+    },
+    {
+      "state": "TX",
+      "severity": 1,
+      "count": 4229
+    },
+    {
+      "state": "TX",
+      "severity": 2,
+      "count": 432514
+    },
+    {
+      "state": "TX",
+      "severity": 3,
+      "count": 119982
+    },
+    {
+      "state": "TX",
+      "severity": 4,
+      "count": 6817
+    },
+    {
+      "state": "UT",
+      "severity": 1,
+      "count": 630
+    },
+    {
+      "state": "UT",
+      "severity": 2,
+      "count": 74572
+    },
+    {
+      "state": "UT",
+      "severity": 3,
+      "count": 14875
+    },
+    {
+      "state": "UT",
+      "severity": 4,
+      "count": 1582
+    },
+    {
+      "state": "VA",
+      "severity": 1,
+      "count": 2774
+    },
+    {
+      "state": "VA",
+      "severity": 2,
+      "count": 205823
+    },
+    {
+      "state": "VA",
+      "severity": 3,
+      "count": 50959
+    },
+    {
+      "state": "VA",
+      "severity": 4,
+      "count": 14558
+    },
+    {
+      "state": "VT",
+      "severity": 1,
+      "count": 3
+    },
+    {
+      "state": "VT",
+      "severity": 2,
+      "count": 609
+    },
+    {
+      "state": "VT",
+      "severity": 3,
+      "count": 217
+    },
+    {
+      "state": "VT",
+      "severity": 4,
+      "count": 86
+    },
+    {
+      "state": "WA",
+      "severity": 1,
+      "count": 840
+    },
+    {
+      "state": "WA",
+      "severity": 2,
+      "count": 69427
+    },
+    {
+      "state": "WA",
+      "severity": 3,
+      "count": 29705
+    },
+    {
+      "state": "WA",
+      "severity": 4,
+      "count": 3673
+    },
+    {
+      "state": "WI",
+      "severity": 1,
+      "count": 89
+    },
+    {
+      "state": "WI",
+      "severity": 2,
+      "count": 19992
+    },
+    {
+      "state": "WI",
+      "severity": 3,
+      "count": 9546
+    },
+    {
+      "state": "WI",
+      "severity": 4,
+      "count": 3157
+    },
+    {
+      "state": "WV",
+      "severity": 1,
+      "count": 2
+    },
+    {
+      "state": "WV",
+      "severity": 2,
+      "count": 11481
+    },
+    {
+      "state": "WV",
+      "severity": 3,
+      "count": 519
+    },
+    {
+      "state": "WV",
+      "severity": 4,
+      "count": 766
+    },
+    {
+      "state": "WY",
+      "severity": 2,
+      "count": 2422
+    },
+    {
+      "state": "WY",
+      "severity": 3,
+      "count": 179
+    },
+    {
+      "state": "WY",
+      "severity": 4,
+      "count": 464
+    }
+  ]
+}

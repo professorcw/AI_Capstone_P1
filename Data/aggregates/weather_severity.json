@@ -1,0 +1,218 @@
+{
+  "conditions": [
+    "Fair",
+    "Mostly Cloudy",
+    "Clear",
+    "Cloudy",
+    "Partly Cloudy",
+    "Overcast",
+    "Light Rain",
+    "Scattered Clouds",
+    "Unknown",
+    "Light Snow",
+    "Fog",
+    "Rain",
+    "Haze",
+    "Fair / Windy",
+    "Heavy Rain"
+  ],
+  "severity_matrix": [
+    [
+      32802,
+      1990645,
+      237703,
+      47677
+    ],
+    [
+      10272,
+      729940,
+      187843,
+      20734
+    ],
+    [
+      337,
+      534229,
+      244214,
+      26002
+    ],
+    [
+      7599,
+      622831,
+      92212,
+      18203
+    ],
+    [
+      6562,
+      506801,
+      126798,
+      13650
+    ],
+    [
+      115,
+      247768,
+      119509,
+      13616
+    ],
+    [
+      2205,
+      249735,
+      70404,
+      8128
+    ],
+    [
+      73,
+      132055,
+      65841,
+      5877
+    ],
+    [
+      903,
+      122170,
+      30033,
+      6349
+    ],
+    [
+      73,
+      91691,
+      21962,
+      4051
+    ],
+    [
+      643,
+      78370,
+      9512,
+      2225
+    ],
+    [
+      434,
+      58877,
+      18059,
+      1750
+    ],
+    [
+      212,
+      55955,
+      14279,
+      961
+    ],
+    [
+      328,
+      27341,
+      3408,
+      840
+    ],
+    [
+      187,
+      22296,
+      7163,
+      630
+    ]
+  ],
+  "condition_stats": [
+    {
+      "condition": "Fair",
+      "avg_temp": 63.9,
+      "avg_visibility": 9.8,
+      "avg_wind": 6.3,
+      "total": 2308827
+    },
+    {
+      "condition": "Haze",
+      "avg_temp": 62.0,
+      "avg_visibility": 4.9,
+      "avg_wind": 5.7,
+      "total": 71407
+    },
+    {
+      "condition": "Scattered Clouds",
+      "avg_temp": 68.8,
+      "avg_visibility": 10.1,
+      "avg_wind": 8.9,
+      "total": 203846
+    },
+    {
+      "condition": "Rain",
+      "avg_temp": 56.6,
+      "avg_visibility": 4.1,
+      "avg_wind": 8.5,
+      "total": 79120
+    },
+    {
+      "condition": "Light Rain",
+      "avg_temp": 57.4,
+      "avg_visibility": 6.8,
+      "avg_wind": 8.3,
+      "total": 330472
+    },
+    {
+      "condition": "Fog",
+      "avg_temp": 50.8,
+      "avg_visibility": 0.9,
+      "avg_wind": 3.8,
+      "total": 90750
+    },
+    {
+      "condition": "Heavy Rain",
+      "avg_temp": 61.2,
+      "avg_visibility": 2.3,
+      "avg_wind": 9.1,
+      "total": 30276
+    },
+    {
+      "condition": "Cloudy",
+      "avg_temp": 55.0,
+      "avg_visibility": 9.2,
+      "avg_wind": 7.2,
+      "total": 740845
+    },
+    {
+      "condition": "Overcast",
+      "avg_temp": 54.1,
+      "avg_visibility": 8.7,
+      "avg_wind": 8.6,
+      "total": 381008
+    },
+    {
+      "condition": "Fair / Windy",
+      "avg_temp": 60.9,
+      "avg_visibility": 10.0,
+      "avg_wind": 23.8,
+      "total": 31917
+    },
+    {
+      "condition": "Unknown",
+      "avg_temp": 60.6,
+      "avg_visibility": 9.9,
+      "avg_wind": 6.9,
+      "total": 159455
+    },
+    {
+      "condition": "Partly Cloudy",
+      "avg_temp": 68.6,
+      "avg_visibility": 10.0,
+      "avg_wind": 8.0,
+      "total": 653811
+    },
+    {
+      "condition": "Clear",
+      "avg_temp": 62.8,
+      "avg_visibility": 9.9,
+      "avg_wind": 7.8,
+      "total": 804782
+    },
+    {
+      "condition": "Mostly Cloudy",
+      "avg_temp": 66.5,
+      "avg_visibility": 9.9,
+      "avg_wind": 8.3,
+      "total": 948789
+    },
+    {
+      "condition": "Light Snow",
+      "avg_temp": 24.8,
+      "avg_visibility": 3.1,
+      "avg_wind": 9.6,
+      "total": 117777
+    }
+  ]
+}
