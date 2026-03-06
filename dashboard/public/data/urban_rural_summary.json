@@ -1,46 +1,46 @@
 {
   "summary": {
     "urban": {
-      "count": 532412,
+      "count": 532460,
       "avg_severity": 2.21,
       "pct_severe": 0.2037
     },
     "rural": {
-      "count": 468116,
+      "count": 468068,
       "avg_severity": 2.23,
-      "pct_severe": 0.2038
+      "pct_severe": 0.2042
     }
   },
   "hourly": [
     {
       "hour": 0,
-      "urban_pct": 0.0121,
+      "urban_pct": 0.012,
       "rural_pct": 0.0154
     },
     {
       "hour": 1,
       "urban_pct": 0.0108,
-      "rural_pct": 0.0128
+      "rural_pct": 0.0127
     },
     {
       "hour": 2,
-      "urban_pct": 0.0107,
-      "rural_pct": 0.0121
+      "urban_pct": 0.0106,
+      "rural_pct": 0.0122
     },
     {
       "hour": 3,
-      "urban_pct": 0.0093,
-      "rural_pct": 0.0113
+      "urban_pct": 0.0094,
+      "rural_pct": 0.0112
     },
     {
       "hour": 4,
-      "urban_pct": 0.0196,
+      "urban_pct": 0.0195,
       "rural_pct": 0.0219
     },
     {
       "hour": 5,
-      "urban_pct": 0.0276,
-      "rural_pct": 0.0315
+      "urban_pct": 0.0274,
+      "rural_pct": 0.0316
     },
     {
       "hour": 6,
@@ -49,8 +49,8 @@
     },
     {
       "hour": 7,
-      "urban_pct": 0.0775,
-      "rural_pct": 0.0787
+      "urban_pct": 0.0779,
+      "rural_pct": 0.0785
     },
     {
       "hour": 8,
@@ -59,77 +59,77 @@
     },
     {
       "hour": 9,
-      "urban_pct": 0.0486,
-      "rural_pct": 0.0474
+      "urban_pct": 0.0487,
+      "rural_pct": 0.0475
     },
     {
       "hour": 10,
       "urban_pct": 0.0448,
-      "rural_pct": 0.0452
+      "rural_pct": 0.0451
     },
     {
       "hour": 11,
-      "urban_pct": 0.0468,
+      "urban_pct": 0.0469,
       "rural_pct": 0.0472
     },
     {
       "hour": 12,
-      "urban_pct": 0.0458,
-      "rural_pct": 0.0452
+      "urban_pct": 0.0459,
+      "rural_pct": 0.0455
     },
     {
       "hour": 13,
-      "urban_pct": 0.0503,
-      "rural_pct": 0.0506
+      "urban_pct": 0.0505,
+      "rural_pct": 0.0504
     },
     {
       "hour": 14,
-      "urban_pct": 0.0574,
-      "rural_pct": 0.0564
+      "urban_pct": 0.0576,
+      "rural_pct": 0.0565
     },
     {
       "hour": 15,
-      "urban_pct": 0.0693,
-      "rural_pct": 0.0648
+      "urban_pct": 0.0695,
+      "rural_pct": 0.0653
     },
     {
       "hour": 16,
-      "urban_pct": 0.0776,
-      "rural_pct": 0.0721
+      "urban_pct": 0.0774,
+      "rural_pct": 0.072
     },
     {
       "hour": 17,
-      "urban_pct": 0.0775,
+      "urban_pct": 0.0773,
       "rural_pct": 0.0706
     },
     {
       "hour": 18,
-      "urban_pct": 0.0579,
+      "urban_pct": 0.0575,
       "rural_pct": 0.0544
     },
     {
       "hour": 19,
       "urban_pct": 0.0382,
-      "rural_pct": 0.0386
+      "rural_pct": 0.0387
     },
     {
       "hour": 20,
-      "urban_pct": 0.0279,
-      "rural_pct": 0.0297
+      "urban_pct": 0.0277,
+      "rural_pct": 0.0295
     },
     {
       "hour": 21,
       "urban_pct": 0.0232,
-      "rural_pct": 0.0255
+      "rural_pct": 0.0253
     },
     {
       "hour": 22,
-      "urban_pct": 0.0205,
-      "rural_pct": 0.0218
+      "urban_pct": 0.0206,
+      "rural_pct": 0.0219
     },
     {
       "hour": 23,
-      "urban_pct": 0.0145,
+      "urban_pct": 0.0144,
       "rural_pct": 0.0171
     }
   ],
@@ -137,19 +137,19 @@
     "urban": [
       {
         "severity": 1,
-        "pct": 0.0103
+        "pct": 0.0102
       },
       {
         "severity": 2,
-        "pct": 0.786
+        "pct": 0.7861
       },
       {
         "severity": 3,
-        "pct": 0.1909
+        "pct": 0.1908
       },
       {
         "severity": 4,
-        "pct": 0.0128
+        "pct": 0.0129
       }
     ],
     "rural": [
@@ -159,15 +159,15 @@
       },
       {
         "severity": 2,
-        "pct": 0.7885
+        "pct": 0.7881
       },
       {
         "severity": 3,
-        "pct": 0.1655
+        "pct": 0.1662
       },
       {
         "severity": 4,
-        "pct": 0.0383
+        "pct": 0.0381
       }
     ]
   },
@@ -175,85 +175,85 @@
     "urban": [
       {
         "condition": "Fair",
-        "count": 162949
+        "count": 162928
       },
       {
         "condition": "Mostly Cloudy",
-        "count": 82004
+        "count": 81966
       },
       {
         "condition": "Clear",
-        "count": 60360
+        "count": 60260
       },
       {
         "condition": "Partly Cloudy",
-        "count": 55456
+        "count": 55294
       },
       {
         "condition": "Cloudy",
-        "count": 50521
+        "count": 50582
       },
       {
         "condition": "Overcast",
-        "count": 29517
+        "count": 29476
       },
       {
         "condition": "Light Rain",
-        "count": 24672
+        "count": 24797
       },
       {
         "condition": "Scattered Clouds",
-        "count": 17482
+        "count": 17534
       },
       {
         "condition": "Unknown",
-        "count": 7598
+        "count": 7644
       },
       {
-        "condition": "Rain",
-        "count": 5581
+        "condition": "Haze",
+        "count": 5642
       }
     ],
     "rural": [
       {
         "condition": "Fair",
-        "count": 158796
+        "count": 158397
       },
       {
         "condition": "Cloudy",
-        "count": 52671
+        "count": 52596
       },
       {
         "condition": "Clear",
-        "count": 51585
+        "count": 51657
       },
       {
         "condition": "Mostly Cloudy",
-        "count": 50182
+        "count": 50377
       },
       {
         "condition": "Partly Cloudy",
-        "count": 35875
+        "count": 35986
       },
       {
         "condition": "Overcast",
-        "count": 23297
+        "count": 23242
       },
       {
         "condition": "Light Rain",
-        "count": 21185
+        "count": 21194
       },
       {
         "condition": "Unknown",
-        "count": 14552
+        "count": 14563
       },
       {
         "condition": "Light Snow",
-        "count": 11038
+        "count": 11030
       },
       {
         "condition": "Scattered Clouds",
-        "count": 10876
+        "count": 10871
       }
     ]
   }

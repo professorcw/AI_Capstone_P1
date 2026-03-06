@@ -2,118 +2,118 @@
   "logistic_regression": [
     {
       "Feature": "Stop",
-      "Coefficient": -0.8968215895316806,
-      "Odds_Ratio": 0.4078639608236583
+      "Coefficient": -0.9227477650206197,
+      "Odds_Ratio": 0.3974255074781017
     },
     {
       "Feature": "Railway",
-      "Coefficient": 0.770506119000991,
-      "Odds_Ratio": 2.160859629189349
-    },
-    {
-      "Feature": "Junction",
-      "Coefficient": 0.576307282844647,
-      "Odds_Ratio": 1.7794552583742715
+      "Coefficient": 0.7099608389678728,
+      "Odds_Ratio": 2.0339116070093546
     },
     {
       "Feature": "Give_Way",
-      "Coefficient": 0.5412872305413864,
-      "Odds_Ratio": 1.7182171809167792
+      "Coefficient": 0.6067284655440615,
+      "Odds_Ratio": 1.8344202023263487
+    },
+    {
+      "Feature": "Junction",
+      "Coefficient": 0.573863259116647,
+      "Odds_Ratio": 1.7751115377402171
     },
     {
       "Feature": "Crossing",
-      "Coefficient": -0.5165834562917367,
-      "Odds_Ratio": 0.5965552272138843
-    },
-    {
-      "Feature": "Traffic_Signal",
-      "Coefficient": -0.3647795551003314,
-      "Odds_Ratio": 0.6943496998578457
-    },
-    {
-      "Feature": "Station",
-      "Coefficient": -0.36262021648636067,
-      "Odds_Ratio": 0.6958506559293348
-    },
-    {
-      "Feature": "Road_Feature_Count",
-      "Coefficient": -0.31579263361228305,
-      "Odds_Ratio": 0.7292106482683961
+      "Coefficient": -0.5022045196838021,
+      "Odds_Ratio": 0.6051950236933371
     },
     {
       "Feature": "Amenity",
-      "Coefficient": -0.2937020069444098,
-      "Odds_Ratio": 0.7454986117557449
+      "Coefficient": -0.38467425572283087,
+      "Odds_Ratio": 0.6806723252102296
     },
     {
-      "Feature": "Pressure(in)",
-      "Coefficient": 0.1564892301754151,
-      "Odds_Ratio": 1.1693981680380843
+      "Feature": "Traffic_Signal",
+      "Coefficient": -0.37446899288335356,
+      "Odds_Ratio": 0.6876543312033417
     },
     {
-      "Feature": "IsWeekend",
-      "Coefficient": 0.14349826038117283,
-      "Odds_Ratio": 1.1543048027549938
+      "Feature": "Station",
+      "Coefficient": -0.3311086814394973,
+      "Odds_Ratio": 0.7181271177103868
     },
     {
-      "Feature": "Wind_Speed(mph)",
-      "Coefficient": 0.13216324287043768,
-      "Odds_Ratio": 1.141294612269841
+      "Feature": "Road_Feature_Count",
+      "Coefficient": -0.31009034026520893,
+      "Odds_Ratio": 0.7333806994246208
     },
     {
       "Feature": "Traffic_Calming",
-      "Coefficient": 0.12837291915776905,
-      "Odds_Ratio": 1.136976924124884
+      "Coefficient": 0.17620346002779852,
+      "Odds_Ratio": 1.1926806968139771
     },
     {
       "Feature": "No_Exit",
-      "Coefficient": 0.11653612312074932,
-      "Odds_Ratio": 1.1235980976038862
+      "Coefficient": 0.16518315055967508,
+      "Odds_Ratio": 1.1796091450032238
+    },
+    {
+      "Feature": "Pressure(in)",
+      "Coefficient": 0.1573952190668568,
+      "Odds_Ratio": 1.1704581098632574
+    },
+    {
+      "Feature": "IsWeekend",
+      "Coefficient": 0.14466794666945637,
+      "Odds_Ratio": 1.1556557672035432
+    },
+    {
+      "Feature": "Wind_Speed(mph)",
+      "Coefficient": 0.12979154195253517,
+      "Odds_Ratio": 1.1385910101254728
     },
     {
       "Feature": "Humidity(%)",
-      "Coefficient": 0.06188800314463139,
-      "Odds_Ratio": 1.0638431909637416
+      "Coefficient": 0.06005454858771953,
+      "Odds_Ratio": 1.0618944698091644
     },
     {
       "Feature": "Weather_Risk_Score",
-      "Coefficient": 0.05862848403349438,
-      "Odds_Ratio": 1.0603812189985664
+      "Coefficient": 0.05765261637684216,
+      "Odds_Ratio": 1.0593469320089155
     },
     {
       "Feature": "Visibility(mi)",
-      "Coefficient": 0.038192508895185315,
-      "Odds_Ratio": 1.0389312171292897
+      "Coefficient": 0.03405057481016643,
+      "Odds_Ratio": 1.0346369319713626
     },
     {
       "Feature": "Temperature(F)",
-      "Coefficient": 0.03131580475927401,
-      "Odds_Ratio": 1.0318113033595766
+      "Coefficient": 0.03166133894587122,
+      "Odds_Ratio": 1.0321678910420742
     },
     {
       "Feature": "Roundabout",
-      "Coefficient": -0.011417971202761964,
-      "Odds_Ratio": 0.9886469664433882
-    },
-    {
-      "Feature": "Month",
-      "Coefficient": -0.008715935340481847,
-      "Odds_Ratio": 0.9913219383093121
-    },
-    {
-      "Feature": "DayOfWeek",
-      "Coefficient": -0.007933278704968625,
-      "Odds_Ratio": 0.9920981066993099
-    },
-    {
-      "Feature": "Hour",
-      "Coefficient": 0.006371181504006516,
-      "Odds_Ratio": 1.0063915206527445
+      "Coefficient": -0.01643817517393635,
+      "Odds_Ratio": 0.9836961943568312
     },
     {
       "Feature": "Bump",
-      "Coefficient": -0.0028775127204833813,
-      "Odds_Ratio": 0.9971266233510943
+      "Coefficient": -0.010387124557312196,
+      "Odds_Ratio": 0.9896666353231071
+    },
+    {
+      "Feature": "Month",
+      "Coefficient": -0.008134636814404869,
+      "Odds_Ratio": 0.9918983598111724
+    },
+    {
+      "Feature": "Hour",
+      "Coefficient": 0.006173483024626037,
+      "Odds_Ratio": 1.0061925782454038
+    },
+    {
+      "Feature": "DayOfWeek",
+      "Coefficient": -0.00599260224969331,
+      "Odds_Ratio": 0.9940253175778334
     },
     {
       "Feature": "Turning_Loop",
@@ -124,48 +124,53 @@
   "random_forest": [
     {
       "Feature": "Wind_Speed(mph)",
-      "Importance": 0.033852558144183545,
-      "Std": 0.0005447271200846645
+      "Importance": 0.033894535895975096,
+      "Std": 0.0008248059988085149
     },
     {
       "Feature": "Pressure(in)",
-      "Importance": 0.021049343847760627,
-      "Std": 0.0003310604810430153
+      "Importance": 0.02161904190778883,
+      "Std": 0.00034035925486401356
     },
     {
       "Feature": "Humidity(%)",
-      "Importance": 0.005684986956912774,
-      "Std": 0.0002022933773944899
+      "Importance": 0.007125223631475286,
+      "Std": 0.00037829521025134456
     },
     {
       "Feature": "Temperature(F)",
-      "Importance": 0.0032892566939521583,
-      "Std": 0.00031754068977255765
+      "Importance": 0.003133839065295363,
+      "Std": 0.00022368325751765647
     },
     {
       "Feature": "Hour",
-      "Importance": 0.0031703197305427587,
-      "Std": 0.0002985573483970092
+      "Importance": 0.003062376940221656,
+      "Std": 0.00012209911190328246
     },
     {
       "Feature": "Weather_Risk_Score",
-      "Importance": 0.0019969416209408507,
-      "Std": 0.0001419845947084327
-    },
-    {
-      "Feature": "IsWeekend",
-      "Importance": 0.00042677380988072057,
-      "Std": 0.00016622786358928574
+      "Importance": 0.002719558633923991,
+      "Std": 0.00016393750155468124
     },
     {
       "Feature": "DayOfWeek",
-      "Importance": 0.00029484373282155917,
-      "Std": 0.00013764052117932663
+      "Importance": 0.0007715910567398842,
+      "Std": 0.0001183897755533639
+    },
+    {
+      "Feature": "IsWeekend",
+      "Importance": 0.0006471570067863475,
+      "Std": 0.00010985651573157312
     },
     {
       "Feature": "Railway",
-      "Importance": 1.7490729913083314e-05,
-      "Std": 2.501173129489524e-05
+      "Importance": 1.599152449197616e-05,
+      "Std": 3.50385258672097e-05
+    },
+    {
+      "Feature": "Bump",
+      "Importance": 3.498145982583356e-06,
+      "Std": 2.2900741081705577e-06
     },
     {
       "Feature": "Roundabout",
@@ -178,74 +183,69 @@
       "Std": 0.0
     },
     {
-      "Feature": "Bump",
-      "Importance": -6.996291965311041e-06,
-      "Std": 4.580148216423488e-06
+      "Feature": "No_Exit",
+      "Importance": -1.2493378509448316e-05,
+      "Std": 6.419214105850111e-06
     },
     {
       "Feature": "Traffic_Calming",
-      "Importance": -1.8490200193954642e-05,
-      "Std": 1.1406666677185915e-05
-    },
-    {
-      "Feature": "No_Exit",
-      "Importance": -4.8974043756866426e-05,
-      "Std": 9.160296432800942e-06
+      "Importance": -1.5991524492076083e-05,
+      "Std": 1.019263692961645e-05
     },
     {
       "Feature": "Give_Way",
-      "Importance": -9.494967667140752e-05,
-      "Std": 1.3409300935517492e-05
+      "Importance": -0.00015092001239346285,
+      "Std": 1.1129630021761164e-05
     },
     {
       "Feature": "Visibility(mi)",
-      "Importance": -0.0003113349924540487,
-      "Std": 8.311393179465481e-05
+      "Importance": -0.000165412331464343,
+      "Std": 0.00012788631358417096
     },
     {
       "Feature": "Amenity",
-      "Importance": -0.00163013602790526,
-      "Std": 0.00015016687574054898
+      "Importance": -0.0016151439736939778,
+      "Std": 0.0001597871364765058
     },
     {
       "Feature": "Month",
-      "Importance": -0.0021743475957742954,
-      "Std": 0.0005308092942260901
+      "Importance": -0.0020514127512418767,
+      "Std": 0.00046520617731695953
     },
     {
       "Feature": "Stop",
-      "Importance": -0.0035201343288057906,
-      "Std": 0.00032149092237452795
+      "Importance": -0.0035521173777897986,
+      "Std": 0.00023105712359815334
     },
     {
       "Feature": "Station",
-      "Importance": -0.0040958292105184755,
-      "Std": 0.00012147162293610144
+      "Importance": -0.0040898323888339475,
+      "Std": 0.00022960858407934635
     },
     {
       "Feature": "Junction",
-      "Importance": -0.010361008665407368,
-      "Std": 0.00025888064978292215
+      "Importance": -0.009147651744575413,
+      "Std": 0.0002199544354160366
     },
     {
       "Feature": "Crossing",
-      "Importance": -0.018913475857795424,
-      "Std": 0.000577863473870823
+      "Importance": -0.018282810110641423,
+      "Std": 0.00025972048251761914
     },
     {
       "Feature": "Traffic_Signal",
-      "Importance": -0.020721517595674345,
-      "Std": 0.00043772491007022026
+      "Importance": -0.019988406144743332,
+      "Std": 0.00028762177751011397
     },
     {
       "Feature": "Road_Feature_Count",
-      "Importance": -0.04770771491109717,
-      "Std": 0.0008477847219874211
+      "Importance": -0.04749682668185866,
+      "Std": 0.0005015020785177029
     }
   ],
   "comparison": {
-    "lr_auc": 0.6321274400963632,
-    "rf_auc": 0.6973272136607096,
+    "lr_auc": 0.6332445945420869,
+    "rf_auc": 0.6971900265391959,
     "top_features_both": []
   },
   "status": "complete"
